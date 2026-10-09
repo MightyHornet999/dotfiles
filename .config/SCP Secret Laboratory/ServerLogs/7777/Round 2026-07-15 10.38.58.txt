@@ -1,0 +1,26 @@
+2026-07-15 10:38:58.975 +10:00 | Internal            | Game logic     | Started logging.
+2026-07-15 10:38:58.975 +10:00 | Internal            | Game logic     | Game version: 14.2.7.
+2026-07-15 10:38:58.975 +10:00 | Internal            | Game logic     | Build type: Release.
+2026-07-15 10:38:58.975 +10:00 | Internal            | Game logic     | Build timestamp: 2026-05-21 09:02:02Z.
+2026-07-15 10:38:58.975 +10:00 | Internal            | Game logic     | Headless: True.
+2026-07-15 10:39:04.632 +10:00 | Connection update   | Networking     | 76561199083613071@steam preauthenticated from endpoint 192.168.15.14:45512.
+2026-07-15 10:39:12.249 +10:00 | Connection update   | Networking     | 76561199083613071@steam authenticated from endpoint 192.168.15.14:45512. Player ID assigned: 7. Auth token serial number: pj2yJMVm-t6AXeyNX.
+2026-07-15 10:39:12.249 +10:00 | Connection update   | Networking     | Nickname of 76561199083613071@steam is now MightyHornet999.
+2026-07-15 10:39:12.249 +10:00 | Connection update   | Permissions    | MightyHornet999 (76561199083613071@steam) has been assigned to group SERVER OWNER.
+2026-07-15 10:39:26.312 +10:00 | Remote Admin - Misc | Administrative | MightyHornet999 (76561199083613071@steam) has spawned a dummy with the nickname Dummy.
+2026-07-15 10:39:26.312 +10:00 | Connection update   | Permissions    | Dummy (ID_Dummy) has been assigned to group Dummy.
+2026-07-15 10:39:26.463 +10:00 | Remote Admin - Misc | Administrative | MightyHornet999 (76561199083613071@steam) has spawned a dummy with the nickname Dummy.
+2026-07-15 10:39:26.463 +10:00 | Connection update   | Permissions    | Dummy (ID_Dummy) has been assigned to group Dummy.
+2026-07-15 10:39:26.649 +10:00 | Remote Admin - Misc | Administrative | MightyHornet999 (76561199083613071@steam) has spawned a dummy with the nickname Dummy.
+2026-07-15 10:39:26.649 +10:00 | Connection update   | Permissions    | Dummy (ID_Dummy) has been assigned to group Dummy.
+2026-07-15 10:39:28.810 +10:00 | Game Event          | Game logic     | Round has been started.
+2026-07-15 10:39:28.810 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) forced round start.
+2026-07-15 10:39:37.431 +10:00 | Remote Admin        | Class change   | MightyHornet999 (76561199083613071@steam) changed role of player MightyHornet999 (76561199083613071@steam) to Scp079.
+2026-07-15 10:51:13.840 +10:00 | Game Event          | Game logic     | Decontamination started.
+2026-07-15 10:51:19.823 +10:00 | Kill                | Class change   | Dummy (ID_Dummy), playing as Class-D Personnel, has died. Specific death reason: Melted by a highly corrosive substance.
+2026-07-15 10:51:19.828 +10:00 | Kill                | Class change   | Dummy (ID_Dummy), playing as Class-D Personnel, has died. Specific death reason: Melted by a highly corrosive substance.
+2026-07-15 10:51:37.816 +10:00 | Game Event          | Class change   | Player Dummy (ID_Dummy) respawned as NtfPrivate.
+2026-07-15 10:51:37.819 +10:00 | Game Event          | Class change   | Player Dummy (ID_Dummy) respawned as NtfPrivate.
+2026-07-15 10:51:37.820 +10:00 | Game Event          | Class change   | WaveSpawner has successfully spawned 2 players as FoundationForces!
+2026-07-15 10:52:06.610 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) forced round restart.
+2026-07-15 10:52:06.713 +10:00 | Kill                | Class change   | MightyHornet999 (76561199083613071@steam), playing as SCP-079, has died. Specific death reason: Unknown cause of death.

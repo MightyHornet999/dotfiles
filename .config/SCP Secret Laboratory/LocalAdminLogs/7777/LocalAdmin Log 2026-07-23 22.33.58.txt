@@ -1,0 +1,196 @@
+[2026-07-23 22:33:58.129 +10:00] Logging started.
+[2026-07-23 22:33:58.129 +10:00] Timezone offset: +10:00
+[2026-07-23 22:33:58.141 +10:00] Waiting for players...
+[2026-07-23 22:33:58.225 +10:00] [STDOUT] Unloading 1076 unused Assets to reduce memory usage. Loaded Objects now: 731442.
+[2026-07-23 22:33:58.225 +10:00] [STDOUT] Total: 145.715944 ms (FindLiveObjects: 35.503619 ms CreateObjectMapping: 20.078063 ms MarkObjects: 88.305961 ms  DeleteObjects: 1.827700 ms)
+[2026-07-23 22:33:58.225 +10:00] [STDOUT] Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+[2026-07-23 22:33:58.226 +10:00] [STDOUT] The referenced script on this Behaviour (Game Object '<null>') is missing!
+[2026-07-23 22:33:58.227 +10:00] [STDOUT] The referenced script (Unknown) on this Behaviour is missing!
+[2026-07-23 22:33:58.227 +10:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2026-07-23 22:33:58.228 +10:00] [STDOUT] The referenced script on this Behaviour (Game Object '<null>') is missing!
+[2026-07-23 22:33:58.228 +10:00] [STDOUT] The referenced script (Unknown) on this Behaviour is missing!
+[2026-07-23 22:33:58.228 +10:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2026-07-23 22:33:58.231 +10:00] [STDOUT] The referenced script on this Behaviour (Game Object '<null>') is missing!
+[2026-07-23 22:33:58.231 +10:00] [STDOUT] The referenced script (Unknown) on this Behaviour is missing!
+[2026-07-23 22:33:58.231 +10:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2026-07-23 22:33:58.234 +10:00] [STDOUT] The referenced script on this Behaviour (Game Object '<null>') is missing!
+[2026-07-23 22:33:58.234 +10:00] [STDOUT] The referenced script (Unknown) on this Behaviour is missing!
+[2026-07-23 22:33:58.234 +10:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2026-07-23 22:33:58.236 +10:00] [STDOUT] The referenced script on this Behaviour (Game Object '<null>') is missing!
+[2026-07-23 22:33:58.236 +10:00] [STDOUT] The referenced script (Unknown) on this Behaviour is missing!
+[2026-07-23 22:33:58.236 +10:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2026-07-23 22:33:58.237 +10:00] [STDOUT] The referenced script on this Behaviour (Game Object '<null>') is missing!
+[2026-07-23 22:33:58.238 +10:00] [STDOUT] The referenced script (Unknown) on this Behaviour is missing!
+[2026-07-23 22:33:58.238 +10:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2026-07-23 22:33:58.238 +10:00] [STDOUT] The referenced script on this Behaviour (Game Object '<null>') is missing!
+[2026-07-23 22:33:58.238 +10:00] [STDOUT] The referenced script (Unknown) on this Behaviour is missing!
+[2026-07-23 22:33:58.238 +10:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2026-07-23 22:33:58.240 +10:00] [STDOUT] The referenced script on this Behaviour (Game Object '<null>') is missing!
+[2026-07-23 22:33:58.240 +10:00] [STDOUT] The referenced script (Unknown) on this Behaviour is missing!
+[2026-07-23 22:33:58.240 +10:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2026-07-23 22:33:58.241 +10:00] [STDOUT] The referenced script on this Behaviour (Game Object '<null>') is missing!
+[2026-07-23 22:33:58.241 +10:00] [STDOUT] The referenced script (Unknown) on this Behaviour is missing!
+[2026-07-23 22:33:58.241 +10:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2026-07-23 22:33:58.243 +10:00] [STDOUT] Trying to access a shader but no shaders were included in the build because Dedicated Server Optimizations is enabled.
+[2026-07-23 22:33:58.243 +10:00] [STDOUT] Trying to access a shader but no shaders were included in the build because Dedicated Server Optimizations is enabled.
+[2026-07-23 22:33:58.243 +10:00] [STDOUT] Trying to access a shader but no shaders were included in the build because Dedicated Server Optimizations is enabled.
+[2026-07-23 22:33:58.243 +10:00] [STDOUT] Trying to access a shader but no shaders were included in the build because Dedicated Server Optimizations is enabled.
+[2026-07-23 22:33:58.395 +10:00] [STDOUT] Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 739194.
+[2026-07-23 22:33:58.395 +10:00] [STDOUT] Total: 145.031203 ms (FindLiveObjects: 35.628012 ms CreateObjectMapping: 19.758986 ms MarkObjects: 88.703966 ms  DeleteObjects: 0.939889 ms)
+[2026-07-23 22:33:58.900 +10:00] [STDOUT] The referenced script on this Behaviour (Game Object '<null>') is missing!
+[2026-07-23 22:33:58.900 +10:00] [STDOUT] The referenced script (Unknown) on this Behaviour is missing!
+[2026-07-23 22:33:58.900 +10:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2026-07-23 22:33:58.900 +10:00] [STDOUT] The referenced script on this Behaviour (Game Object '<null>') is missing!
+[2026-07-23 22:33:58.901 +10:00] [STDOUT] The referenced script (Unknown) on this Behaviour is missing!
+[2026-07-23 22:33:58.901 +10:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2026-07-23 22:33:58.901 +10:00] [STDOUT] The referenced script on this Behaviour (Game Object '<null>') is missing!
+[2026-07-23 22:33:58.901 +10:00] [STDOUT] The referenced script (Unknown) on this Behaviour is missing!
+[2026-07-23 22:33:58.901 +10:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2026-07-23 22:33:58.948 +10:00] [STDOUT] The referenced script on this Behaviour (Game Object '<null>') is missing!
+[2026-07-23 22:33:58.948 +10:00] [STDOUT] The referenced script (Unknown) on this Behaviour is missing!
+[2026-07-23 22:33:58.948 +10:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2026-07-23 22:33:58.948 +10:00] [STDOUT] The referenced script on this Behaviour (Game Object '<null>') is missing!
+[2026-07-23 22:33:58.948 +10:00] [STDOUT] The referenced script (Unknown) on this Behaviour is missing!
+[2026-07-23 22:33:58.948 +10:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2026-07-23 22:33:58.949 +10:00] [STDOUT] The referenced script on this Behaviour (Game Object '<null>') is missing!
+[2026-07-23 22:33:58.949 +10:00] [STDOUT] The referenced script (Unknown) on this Behaviour is missing!
+[2026-07-23 22:33:58.949 +10:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2026-07-23 22:33:58.951 +10:00] [STDOUT] The referenced script on this Behaviour (Game Object '<null>') is missing!
+[2026-07-23 22:33:58.951 +10:00] [STDOUT] The referenced script (Unknown) on this Behaviour is missing!
+[2026-07-23 22:33:58.951 +10:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2026-07-23 22:33:58.951 +10:00] [STDOUT] The referenced script on this Behaviour (Game Object '<null>') is missing!
+[2026-07-23 22:33:58.952 +10:00] [STDOUT] The referenced script (Unknown) on this Behaviour is missing!
+[2026-07-23 22:33:58.952 +10:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2026-07-23 22:33:58.952 +10:00] [STDOUT] The referenced script on this Behaviour (Game Object '<null>') is missing!
+[2026-07-23 22:33:58.952 +10:00] [STDOUT] The referenced script (Unknown) on this Behaviour is missing!
+[2026-07-23 22:33:58.952 +10:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2026-07-23 22:33:58.953 +10:00] [STDOUT] The referenced script on this Behaviour (Game Object '<null>') is missing!
+[2026-07-23 22:33:58.953 +10:00] [STDOUT] The referenced script (Unknown) on this Behaviour is missing!
+[2026-07-23 22:33:58.953 +10:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2026-07-23 22:33:58.953 +10:00] [STDOUT] The referenced script on this Behaviour (Game Object '<null>') is missing!
+[2026-07-23 22:33:58.953 +10:00] [STDOUT] The referenced script (Unknown) on this Behaviour is missing!
+[2026-07-23 22:33:58.953 +10:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2026-07-23 22:33:58.954 +10:00] [STDOUT] The referenced script on this Behaviour (Game Object '<null>') is missing!
+[2026-07-23 22:33:58.954 +10:00] [STDOUT] The referenced script (Unknown) on this Behaviour is missing!
+[2026-07-23 22:33:58.954 +10:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2026-07-23 22:34:03.137 +10:00] Requested challenge for incoming connection from endpoint 120.158.30.179:60675.
+[2026-07-23 22:34:03.158 +10:00] Requested challenge for incoming connection from endpoint 127.0.0.1:57338.
+[2026-07-23 22:34:03.461 +10:00] Security challenge response of incoming connection from endpoint 127.0.0.1:44312 has been accepted.
+[2026-07-23 22:34:03.471 +10:00] Player 76561199083613071@steam preauthenticated from endpoint 127.0.0.1:44312.
+[2026-07-23 22:34:03.511 +10:00] Security challenge response of incoming connection from endpoint 120.158.30.179:60676 has been accepted.
+[2026-07-23 22:34:03.521 +10:00] Player 76561199154923632@steam preauthenticated from endpoint 120.158.30.179:60676.
+[2026-07-23 22:34:10.732 +10:00] 76561199083613071@steam authenticated from endpoint 127.0.0.1:44312. Player ID assigned: 26. Auth token serial number: qeAHBuE5-1nuJcsBy.
+[2026-07-23 22:34:10.741 +10:00] Nickname of 76561199083613071@steam is now MightyHornet999.
+[2026-07-23 22:34:11.538 +10:00] 76561199154923632@steam authenticated from endpoint 120.158.30.179:60676. Player ID assigned: 27. Auth token serial number: v35Uiusy-Clc3YCI5.
+[2026-07-23 22:34:11.548 +10:00] Nickname of 76561199154923632@steam is now Miniryder.
+[2026-07-23 22:34:11.558 +10:00] TAG FAIL 1 - ADMIN -  /-/ blue -
+[2026-07-23 22:34:27.065 +10:00] New round has been started.
+[2026-07-23 22:35:21.421 +10:00] [STDOUT] Trying to access a shader but no shaders were included in the build because Dedicated Server Optimizations is enabled.
+[2026-07-23 22:35:21.421 +10:00] [STDOUT] Trying to access a shader but no shaders were included in the build because Dedicated Server Optimizations is enabled.
+[2026-07-23 22:35:21.421 +10:00] [STDOUT] Trying to access a shader but no shaders were included in the build because Dedicated Server Optimizations is enabled.
+[2026-07-23 22:35:21.421 +10:00] [STDOUT] Trying to access a shader but no shaders were included in the build because Dedicated Server Optimizations is enabled.
+[2026-07-23 22:35:21.421 +10:00] [STDOUT] Trying to access a shader but no shaders were included in the build because Dedicated Server Optimizations is enabled.
+[2026-07-23 22:35:21.421 +10:00] [STDOUT] Trying to access a shader but no shaders were included in the build because Dedicated Server Optimizations is enabled.
+[2026-07-23 22:35:21.421 +10:00] [STDOUT] Trying to access a shader but no shaders were included in the build because Dedicated Server Optimizations is enabled.
+[2026-07-23 22:35:21.421 +10:00] [STDOUT] Trying to access a shader but no shaders were included in the build because Dedicated Server Optimizations is enabled.
+[2026-07-23 22:36:56.459 +10:00] [STDOUT] Trying to access a shader but no shaders were included in the build because Dedicated Server Optimizations is enabled.
+[2026-07-23 22:36:56.459 +10:00] [STDOUT] Trying to access a shader but no shaders were included in the build because Dedicated Server Optimizations is enabled.
+[2026-07-23 22:36:56.459 +10:00] [STDOUT] Trying to access a shader but no shaders were included in the build because Dedicated Server Optimizations is enabled.
+[2026-07-23 22:36:56.459 +10:00] [STDOUT] Trying to access a shader but no shaders were included in the build because Dedicated Server Optimizations is enabled.
+[2026-07-23 22:36:56.461 +10:00] [STDOUT] Trying to access a shader but no shaders were included in the build because Dedicated Server Optimizations is enabled.
+[2026-07-23 22:36:56.674 +10:00] [STDOUT] Trying to access a shader but no shaders were included in the build because Dedicated Server Optimizations is enabled.
+[2026-07-23 22:36:56.674 +10:00] [STDOUT] Trying to access a shader but no shaders were included in the build because Dedicated Server Optimizations is enabled.
+[2026-07-23 22:36:56.674 +10:00] [STDOUT] Trying to access a shader but no shaders were included in the build because Dedicated Server Optimizations is enabled.
+[2026-07-23 22:36:56.674 +10:00] [STDOUT] Trying to access a shader but no shaders were included in the build because Dedicated Server Optimizations is enabled.
+[2026-07-23 22:36:56.974 +10:00] [STDOUT] Trying to access a shader but no shaders were included in the build because Dedicated Server Optimizations is enabled.
+[2026-07-23 22:36:57.040 +10:00] [STDOUT] Trying to access a shader but no shaders were included in the build because Dedicated Server Optimizations is enabled.
+[2026-07-23 22:36:57.041 +10:00] [STDOUT] Trying to access a shader but no shaders were included in the build because Dedicated Server Optimizations is enabled.
+[2026-07-23 22:36:57.041 +10:00] [STDOUT] Trying to access a shader but no shaders were included in the build because Dedicated Server Optimizations is enabled.
+[2026-07-23 22:36:57.041 +10:00] [STDOUT] Trying to access a shader but no shaders were included in the build because Dedicated Server Optimizations is enabled.
+[2026-07-23 22:36:57.057 +10:00] [STDOUT] Trying to access a shader but no shaders were included in the build because Dedicated Server Optimizations is enabled.
+[2026-07-23 22:36:57.474 +10:00] [STDOUT] Trying to access a shader but no shaders were included in the build because Dedicated Server Optimizations is enabled.
+[2026-07-23 22:36:57.474 +10:00] [STDOUT] Trying to access a shader but no shaders were included in the build because Dedicated Server Optimizations is enabled.
+[2026-07-23 22:36:57.474 +10:00] [STDOUT] Trying to access a shader but no shaders were included in the build because Dedicated Server Optimizations is enabled.
+[2026-07-23 22:36:57.474 +10:00] [STDOUT] Trying to access a shader but no shaders were included in the build because Dedicated Server Optimizations is enabled.
+[2026-07-23 22:36:57.574 +10:00] [STDOUT] Trying to access a shader but no shaders were included in the build because Dedicated Server Optimizations is enabled.
+[2026-07-23 22:36:57.757 +10:00] [STDOUT] Trying to access a shader but no shaders were included in the build because Dedicated Server Optimizations is enabled.
+[2026-07-23 22:36:57.757 +10:00] [STDOUT] Trying to access a shader but no shaders were included in the build because Dedicated Server Optimizations is enabled.
+[2026-07-23 22:36:57.757 +10:00] [STDOUT] Trying to access a shader but no shaders were included in the build because Dedicated Server Optimizations is enabled.
+[2026-07-23 22:36:57.757 +10:00] [STDOUT] Trying to access a shader but no shaders were included in the build because Dedicated Server Optimizations is enabled.
+[2026-07-23 22:37:10.710 +10:00] [STDOUT] Trying to access a shader but no shaders were included in the build because Dedicated Server Optimizations is enabled.
+[2026-07-23 22:37:10.710 +10:00] [STDOUT] Trying to access a shader but no shaders were included in the build because Dedicated Server Optimizations is enabled.
+[2026-07-23 22:43:03.640 +10:00] [STDOUT] The referenced script on this Behaviour (Game Object '<null>') is missing!
+[2026-07-23 22:43:03.640 +10:00] [STDOUT] The referenced script (Unknown) on this Behaviour is missing!
+[2026-07-23 22:43:03.640 +10:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2026-07-23 22:47:01.087 +10:00] >>> q
+[2026-07-23 22:47:01.115 +10:00] Command q does not exist!
+[2026-07-23 22:47:05.318 +10:00] >>> help
+[2026-07-23 22:47:05.319 +10:00] 
+[2026-07-23 22:47:05.319 +10:00] ---- LocalAdmin Commands ----
+[2026-07-23 22:47:05.319 +10:00] EXIT - Stops the server.
+[2026-07-23 22:47:05.319 +10:00] FORCERESTART - Kills and restarts the server.
+[2026-07-23 22:47:05.319 +10:00] HBC - Cancels heartbeat restart countdown.
+[2026-07-23 22:47:05.319 +10:00] HBCTRL - Controls Heartbeat
+[2026-07-23 22:47:05.319 +10:00] HELP - Prints all available commands.
+[2026-07-23 22:47:05.319 +10:00] LACFG - Prints the current LocalAdmin configuration and the configuration file path.
+[2026-07-23 22:47:05.319 +10:00] LICENSE - Prints LocalAdmin license details.
+[2026-07-23 22:47:05.319 +10:00] P - Plugin Manager.
+[2026-07-23 22:47:05.319 +10:00] RESAVE - Resaves the LocalAdmin configuration file.
+[2026-07-23 22:47:05.319 +10:00] RESTART - Restarts the server.
+[2026-07-23 22:47:05.319 +10:00] ------------
+[2026-07-23 22:47:05.319 +10:00] ---- Game Commands ----
+[2026-07-23 22:47:05.355 +10:00] Command list:
+                                 query - Manages query client connections.
+                                 buffer - Returns TcpConsole buffers sizes. - Aliases: bs
+                                 audiopooldebug - Prints debug information about Audio Pooling system. - Aliases: audiopoolingdebug
+                                 buildinfo - Displays information about the current build. - Aliases: v, ver, version
+                                 config - Allows for config debugging and reloading - Aliases: cfg
+                                 forcestart - Forces the round to start. - Aliases: fs, rs, start, roundstart
+                                 hello - Hi!
+                                 help - Returns all commands with their descriptions and aliases or displays help for specified command.
+                                 nextround - Manages server behavior when the current round ends. - Aliases: nr
+                                 perm - Lists your permissions.
+                                 players - Displays a list of all players. - Aliases: pl, list
+                                 quit - Quit the game. - Aliases: exit, stop
+                                 redirect - Shutdowns the server and redirects all the players to a server on another port. - Aliases: rstop, rexit, rquit
+                                 refreshcommands - Reloads all commands.
+                                 restartnextround - Restarts the server after the current round is finished. - Aliases: rnr
+                                 ridlist - Displays a list of all room ids. - Aliases: rids
+                                 softrestart - Restarts the server, but tells all the players to reconnect after the restart. - Aliases: srestart, sr
+                                 stopnextround - Stops the server after the next round. - Aliases: snr
+                                 subscribe - Subscribes you to a data feed. - Aliases: sub
+                                 unsubscribe - Unsubscribes you from a data feed. - Aliases: unsub
+                                 uptime - Displays the uptime of the game. - Aliases: rounds
+                                 stripdown - Advanced debug command. Allows to print out properties and fields of any instantiated object.
+                                 accuracystats - Replaces gun crosshair with one that displays current inaccuracy. - Aliases: accstats, inaccstats, inaccuracystats, statsacc, statsinacc
+                                 animcullingstats - Displays current animation culling stats. - Aliases: animcullingdebug, animdebug
+                                 args - Prints all startup args
+                                 line - Controls or displays information about the Wave system. - Aliases: debugline, drawline, drawableline, lines
+                                 disconnect - Disconnect from server. - Aliases: dc
+                                 httpinfo - Returns information about the currently used HTTP handling - Aliases: httpconfig, httpconfiguration
+                                 id - Displays your current player ID. - Aliases: myid
+                                 idle - Controls server idle mode - Aliases: i
+                                 ip - Returns the IP used when connecting to central servers - Aliases: whatismyip, myip
+                                 itemlist - Displays a list of items.
+                                 pauseculling - Toggles the culling system's pause on or off. - Aliases: cullingpause
+                                 reloadtranslations - Reloads game translations
+                                 rolelist - Display a list of roles.
+                                 seed - Displays the seed for the current round.
+                                 srvcfg - Displays the server config.
+                                 pocketdimension - Banishes yourself to the pocket dimension. - Aliases: pocketdim, shadowrealm, pd
+                                 roundrestart - Restarts the round. - Aliases: rr, restart
+                                 labapi - Parent command for all LabAPI subcommands. - Aliases: lab
+[2026-07-23 22:47:17.486 +10:00] >>> dc
+[2026-07-23 22:47:17.529 +10:00] This command can be only executed on a game client or server query client!
+[2026-07-23 22:47:33.755 +10:00] >>> query
+[2026-07-23 22:47:33.792 +10:00] Query server is not initialized.
+[2026-07-23 22:47:41.888 +10:00] >>> ls
+[2026-07-23 22:47:41.943 +10:00] Command ls does not exist!
+[2026-07-23 22:47:43.774 +10:00] >>> list
+[2026-07-23 22:47:43.798 +10:00] List of players (2):
+[2026-07-23 22:48:10.260 +10:00] >>> stop
+[2026-07-23 22:48:10.286 +10:00] Idle mode is now temporarily blocked.
+[2026-07-23 22:48:10.296 +10:00] Server shutdown initiated.
+[2026-07-23 22:48:10.306 +10:00] Incoming connections will be now delayed by 5 seconds.
+[2026-07-23 22:48:10.316 +10:00] Broadcasting server shutdown to all connected players...
+[2026-07-23 22:48:10.391 +10:00] --- END OF LOG ---

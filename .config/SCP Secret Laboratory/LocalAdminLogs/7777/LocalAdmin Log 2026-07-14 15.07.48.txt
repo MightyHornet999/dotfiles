@@ -1,0 +1,74 @@
+[2026-07-14 15:07:48.773 +10:00] Logging started.
+[2026-07-14 15:07:48.773 +10:00] Timezone offset: +10:00
+[2026-07-14 15:07:48.786 +10:00] Waiting for players...
+[2026-07-14 15:07:48.902 +10:00] [STDOUT] Unloading 1027 unused Assets to reduce memory usage. Loaded Objects now: 677288.
+[2026-07-14 15:07:48.902 +10:00] [STDOUT] Total: 178.306053 ms (FindLiveObjects: 32.406910 ms CreateObjectMapping: 21.007163 ms MarkObjects: 123.183144 ms  DeleteObjects: 1.708496 ms)
+[2026-07-14 15:07:48.902 +10:00] [STDOUT] Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+[2026-07-14 15:07:48.905 +10:00] [STDOUT] The referenced script on this Behaviour (Game Object '<null>') is missing!
+[2026-07-14 15:07:48.905 +10:00] [STDOUT] The referenced script (Unknown) on this Behaviour is missing!
+[2026-07-14 15:07:48.905 +10:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2026-07-14 15:07:48.905 +10:00] [STDOUT] The referenced script on this Behaviour (Game Object '<null>') is missing!
+[2026-07-14 15:07:48.905 +10:00] [STDOUT] The referenced script (Unknown) on this Behaviour is missing!
+[2026-07-14 15:07:48.905 +10:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2026-07-14 15:07:48.906 +10:00] [STDOUT] The referenced script on this Behaviour (Game Object '<null>') is missing!
+[2026-07-14 15:07:48.906 +10:00] [STDOUT] The referenced script (Unknown) on this Behaviour is missing!
+[2026-07-14 15:07:48.906 +10:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2026-07-14 15:07:48.907 +10:00] [STDOUT] The referenced script on this Behaviour (Game Object '<null>') is missing!
+[2026-07-14 15:07:48.907 +10:00] [STDOUT] The referenced script (Unknown) on this Behaviour is missing!
+[2026-07-14 15:07:48.907 +10:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2026-07-14 15:07:48.907 +10:00] [STDOUT] The referenced script on this Behaviour (Game Object '<null>') is missing!
+[2026-07-14 15:07:48.907 +10:00] [STDOUT] The referenced script (Unknown) on this Behaviour is missing!
+[2026-07-14 15:07:48.907 +10:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2026-07-14 15:07:48.914 +10:00] [STDOUT] The referenced script on this Behaviour (Game Object '<null>') is missing!
+[2026-07-14 15:07:48.914 +10:00] [STDOUT] The referenced script (Unknown) on this Behaviour is missing!
+[2026-07-14 15:07:48.914 +10:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2026-07-14 15:07:48.916 +10:00] [STDOUT] The referenced script on this Behaviour (Game Object '<null>') is missing!
+[2026-07-14 15:07:48.916 +10:00] [STDOUT] The referenced script (Unknown) on this Behaviour is missing!
+[2026-07-14 15:07:48.916 +10:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2026-07-14 15:07:48.919 +10:00] [STDOUT] Trying to access a shader but no shaders were included in the build because Dedicated Server Optimizations is enabled.
+[2026-07-14 15:07:48.919 +10:00] [STDOUT] Trying to access a shader but no shaders were included in the build because Dedicated Server Optimizations is enabled.
+[2026-07-14 15:07:48.919 +10:00] [STDOUT] Trying to access a shader but no shaders were included in the build because Dedicated Server Optimizations is enabled.
+[2026-07-14 15:07:48.919 +10:00] [STDOUT] Trying to access a shader but no shaders were included in the build because Dedicated Server Optimizations is enabled.
+[2026-07-14 15:07:48.924 +10:00] [STDOUT] Trying to access a shader but no shaders were included in the build because Dedicated Server Optimizations is enabled.
+[2026-07-14 15:07:48.924 +10:00] [STDOUT] Trying to access a shader but no shaders were included in the build because Dedicated Server Optimizations is enabled.
+[2026-07-14 15:07:48.924 +10:00] [STDOUT] Trying to access a shader but no shaders were included in the build because Dedicated Server Optimizations is enabled.
+[2026-07-14 15:07:48.924 +10:00] [STDOUT] Trying to access a shader but no shaders were included in the build because Dedicated Server Optimizations is enabled.
+[2026-07-14 15:07:48.926 +10:00] [STDOUT] Trying to access a shader but no shaders were included in the build because Dedicated Server Optimizations is enabled.
+[2026-07-14 15:07:48.926 +10:00] [STDOUT] Trying to access a shader but no shaders were included in the build because Dedicated Server Optimizations is enabled.
+[2026-07-14 15:07:48.926 +10:00] [STDOUT] Trying to access a shader but no shaders were included in the build because Dedicated Server Optimizations is enabled.
+[2026-07-14 15:07:48.926 +10:00] [STDOUT] Trying to access a shader but no shaders were included in the build because Dedicated Server Optimizations is enabled.
+[2026-07-14 15:07:48.926 +10:00] [STDOUT] Trying to access a shader but no shaders were included in the build because Dedicated Server Optimizations is enabled.
+[2026-07-14 15:07:49.102 +10:00] [STDOUT] Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 684123.
+[2026-07-14 15:07:49.103 +10:00] [STDOUT] Total: 176.218117 ms (FindLiveObjects: 32.461552 ms CreateObjectMapping: 20.322542 ms MarkObjects: 122.557303 ms  DeleteObjects: 0.876300 ms)
+[2026-07-14 15:07:49.566 +10:00] [STDOUT] The referenced script on this Behaviour (Game Object '<null>') is missing!
+[2026-07-14 15:07:49.566 +10:00] [STDOUT] The referenced script (Unknown) on this Behaviour is missing!
+[2026-07-14 15:07:49.566 +10:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2026-07-14 15:07:49.566 +10:00] [STDOUT] The referenced script on this Behaviour (Game Object '<null>') is missing!
+[2026-07-14 15:07:49.566 +10:00] [STDOUT] The referenced script (Unknown) on this Behaviour is missing!
+[2026-07-14 15:07:49.566 +10:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2026-07-14 15:07:49.566 +10:00] [STDOUT] The referenced script on this Behaviour (Game Object '<null>') is missing!
+[2026-07-14 15:07:49.566 +10:00] [STDOUT] The referenced script (Unknown) on this Behaviour is missing!
+[2026-07-14 15:07:49.566 +10:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2026-07-14 15:07:49.599 +10:00] [STDOUT] The referenced script on this Behaviour (Game Object '<null>') is missing!
+[2026-07-14 15:07:49.599 +10:00] [STDOUT] The referenced script (Unknown) on this Behaviour is missing!
+[2026-07-14 15:07:49.599 +10:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2026-07-14 15:07:49.602 +10:00] [STDOUT] The referenced script on this Behaviour (Game Object '<null>') is missing!
+[2026-07-14 15:07:49.602 +10:00] [STDOUT] The referenced script (Unknown) on this Behaviour is missing!
+[2026-07-14 15:07:49.602 +10:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2026-07-14 15:07:49.602 +10:00] [STDOUT] The referenced script on this Behaviour (Game Object '<null>') is missing!
+[2026-07-14 15:07:49.602 +10:00] [STDOUT] The referenced script (Unknown) on this Behaviour is missing!
+[2026-07-14 15:07:49.602 +10:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2026-07-14 15:07:49.602 +10:00] [STDOUT] The referenced script on this Behaviour (Game Object '<null>') is missing!
+[2026-07-14 15:07:49.602 +10:00] [STDOUT] The referenced script (Unknown) on this Behaviour is missing!
+[2026-07-14 15:07:49.602 +10:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2026-07-14 15:07:49.604 +10:00] [STDOUT] The referenced script on this Behaviour (Game Object '<null>') is missing!
+[2026-07-14 15:07:49.604 +10:00] [STDOUT] The referenced script (Unknown) on this Behaviour is missing!
+[2026-07-14 15:07:49.604 +10:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2026-07-14 15:07:49.605 +10:00] [STDOUT] The referenced script on this Behaviour (Game Object '<null>') is missing!
+[2026-07-14 15:07:49.605 +10:00] [STDOUT] The referenced script (Unknown) on this Behaviour is missing!
+[2026-07-14 15:07:49.605 +10:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2026-07-14 15:07:49.606 +10:00] [STDOUT] The referenced script on this Behaviour (Game Object '<null>') is missing!
+[2026-07-14 15:07:49.606 +10:00] [STDOUT] The referenced script (Unknown) on this Behaviour is missing!
+[2026-07-14 15:07:49.606 +10:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2026-07-14 15:08:18.724 +10:00] Server has entered the idle mode.
+[2026-07-14 17:01:41.573 +10:00] Could not update server data on server list - (LOCAL EXCEPTION) An error occurred while sending the request.

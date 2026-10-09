@@ -1,0 +1,5 @@
+2026-07-22 11:52:45.054 +10:00 | Internal            | Game logic     | Started logging.
+2026-07-22 11:52:45.054 +10:00 | Internal            | Game logic     | Game version: 14.2.7.
+2026-07-22 11:52:45.054 +10:00 | Internal            | Game logic     | Build type: Release.
+2026-07-22 11:52:45.054 +10:00 | Internal            | Game logic     | Build timestamp: 2026-05-21 09:02:02Z.
+2026-07-22 11:52:45.054 +10:00 | Internal            | Game logic     | Headless: True.

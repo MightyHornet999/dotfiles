@@ -1,0 +1,149 @@
+2026-07-22 11:53:57.625 +10:00 | Internal            | Game logic     | Started logging.
+2026-07-22 11:53:57.626 +10:00 | Internal            | Game logic     | Game version: 14.2.7.
+2026-07-22 11:53:57.626 +10:00 | Internal            | Game logic     | Build type: Release.
+2026-07-22 11:53:57.626 +10:00 | Internal            | Game logic     | Build timestamp: 2026-05-21 09:02:02Z.
+2026-07-22 11:53:57.626 +10:00 | Internal            | Game logic     | Headless: True.
+2026-07-22 11:54:11.140 +10:00 | Connection update   | Networking     | 76561199083613071@steam preauthenticated from endpoint 192.168.15.1:56370.
+2026-07-22 11:54:17.159 +10:00 | Connection update   | Networking     | 76561199083613071@steam authenticated from endpoint 192.168.15.1:56370. Player ID assigned: 2. Auth token serial number: 7/LZbS4P-McR23UUy.
+2026-07-22 11:54:17.162 +10:00 | Connection update   | Networking     | Nickname of 76561199083613071@steam is now MightyHornet999.
+2026-07-22 11:54:17.167 +10:00 | Connection update   | Permissions    | MightyHornet999 (76561199083613071@steam) has been assigned to group BIG MAN.
+2026-07-22 11:54:26.754 +10:00 | Game Event          | Game logic     | Round has been started.
+2026-07-22 11:54:26.755 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) forced round start.
+2026-07-22 11:54:32.334 +10:00 | Remote Admin        | Class change   | MightyHornet999 (76561199083613071@steam) changed role of player MightyHornet999 (76561199083613071@steam) to Scp3114.
+2026-07-22 11:54:43.071 +10:00 | Game Event          | Class change   | is now impersonating MightyHornet999, playing as Class-D Personnel.
+2026-07-22 11:54:44.074 +10:00 | Game Event          | Door           | MightyHornet999 (76561199083613071@steam) opened 173_CONNECTOR.
+2026-07-22 11:54:46.188 +10:00 | Game Event          | Door           | MightyHornet999 (76561199083613071@steam) closed 173_CONNECTOR.
+2026-07-22 11:54:54.954 +10:00 | Game Event          | Door           | MightyHornet999 (76561199083613071@steam) opened 173_BOTTOM.
+2026-07-22 11:54:56.554 +10:00 | Game Event          | Door           | MightyHornet999 (76561199083613071@steam) closed 173_BOTTOM.
+2026-07-22 11:55:50.273 +10:00 | Game Event          | Door           | MightyHornet999 (76561199083613071@steam) opened 330.
+2026-07-22 11:55:53.890 +10:00 | Game Event          | Door           | MightyHornet999 (76561199083613071@steam) opened 330_CHAMBER.
+2026-07-22 11:57:13.074 +10:00 | Game Event          | Class change   | is no longer disguised.
+2026-07-22 12:02:12.385 +10:00 | Remote Admin        | Class change   | MightyHornet999 (76561199083613071@steam) changed role of player MightyHornet999 (76561199083613071@steam) to Scp173.
+2026-07-22 12:05:28.074 +10:00 | Remote Admin        | Class change   | MightyHornet999 (76561199083613071@steam) changed role of player MightyHornet999 (76561199083613071@steam) to ChaosMarauder.
+2026-07-22 12:05:31.654 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP330 to MightyHornet999 (76561199083613071@steam).
+2026-07-22 12:05:31.833 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP330 to MightyHornet999 (76561199083613071@steam).
+2026-07-22 12:05:31.983 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP330 to MightyHornet999 (76561199083613071@steam).
+2026-07-22 12:05:32.132 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP330 to MightyHornet999 (76561199083613071@steam).
+2026-07-22 12:05:32.282 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP330 to MightyHornet999 (76561199083613071@steam).
+2026-07-22 12:05:32.433 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP330 to MightyHornet999 (76561199083613071@steam).
+2026-07-22 12:05:32.583 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP330 to MightyHornet999 (76561199083613071@steam).
+2026-07-22 12:05:32.732 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP330 to MightyHornet999 (76561199083613071@steam).
+2026-07-22 12:05:32.882 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP330 to MightyHornet999 (76561199083613071@steam).
+2026-07-22 12:05:33.033 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP330 to MightyHornet999 (76561199083613071@steam).
+2026-07-22 12:05:33.183 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP330 to MightyHornet999 (76561199083613071@steam).
+2026-07-22 12:05:33.332 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP330 to MightyHornet999 (76561199083613071@steam).
+2026-07-22 12:05:33.482 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP330 to MightyHornet999 (76561199083613071@steam).
+2026-07-22 12:05:33.666 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP330 to MightyHornet999 (76561199083613071@steam).
+2026-07-22 12:05:33.783 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP330 to MightyHornet999 (76561199083613071@steam).
+2026-07-22 12:05:33.933 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP330 to MightyHornet999 (76561199083613071@steam).
+2026-07-22 12:05:34.083 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP330 to MightyHornet999 (76561199083613071@steam).
+2026-07-22 12:05:34.232 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP330 to MightyHornet999 (76561199083613071@steam).
+2026-07-22 12:05:34.383 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP330 to MightyHornet999 (76561199083613071@steam).
+2026-07-22 12:05:34.532 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP330 to MightyHornet999 (76561199083613071@steam).
+2026-07-22 12:05:34.682 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP330 to MightyHornet999 (76561199083613071@steam).
+2026-07-22 12:05:34.866 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP330 to MightyHornet999 (76561199083613071@steam).
+2026-07-22 12:05:35.015 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP330 to MightyHornet999 (76561199083613071@steam).
+2026-07-22 12:05:35.133 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP330 to MightyHornet999 (76561199083613071@steam).
+2026-07-22 12:05:35.282 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP330 to MightyHornet999 (76561199083613071@steam).
+2026-07-22 12:05:35.432 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP330 to MightyHornet999 (76561199083613071@steam).
+2026-07-22 12:05:35.583 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP330 to MightyHornet999 (76561199083613071@steam).
+2026-07-22 12:05:35.732 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP330 to MightyHornet999 (76561199083613071@steam).
+2026-07-22 12:05:35.882 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP330 to MightyHornet999 (76561199083613071@steam).
+2026-07-22 12:05:36.032 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP330 to MightyHornet999 (76561199083613071@steam).
+2026-07-22 12:05:36.183 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP330 to MightyHornet999 (76561199083613071@steam).
+2026-07-22 12:05:36.366 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP330 to MightyHornet999 (76561199083613071@steam).
+2026-07-22 12:05:36.516 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP330 to MightyHornet999 (76561199083613071@steam).
+2026-07-22 12:05:36.666 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP330 to MightyHornet999 (76561199083613071@steam).
+2026-07-22 12:05:36.815 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP330 to MightyHornet999 (76561199083613071@steam).
+2026-07-22 12:05:36.999 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP330 to MightyHornet999 (76561199083613071@steam).
+2026-07-22 12:05:37.149 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP330 to MightyHornet999 (76561199083613071@steam).
+2026-07-22 12:05:37.299 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP330 to MightyHornet999 (76561199083613071@steam).
+2026-07-22 12:05:37.449 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP330 to MightyHornet999 (76561199083613071@steam).
+2026-07-22 12:05:37.599 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP330 to MightyHornet999 (76561199083613071@steam).
+2026-07-22 12:05:37.749 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP330 to MightyHornet999 (76561199083613071@steam).
+2026-07-22 12:05:37.899 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP330 to MightyHornet999 (76561199083613071@steam).
+2026-07-22 12:05:38.049 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP330 to MightyHornet999 (76561199083613071@steam).
+2026-07-22 12:05:38.199 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP330 to MightyHornet999 (76561199083613071@steam).
+2026-07-22 12:05:38.349 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP330 to MightyHornet999 (76561199083613071@steam).
+2026-07-22 12:05:38.499 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP330 to MightyHornet999 (76561199083613071@steam).
+2026-07-22 12:05:38.682 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP330 to MightyHornet999 (76561199083613071@steam).
+2026-07-22 12:05:38.832 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP330 to MightyHornet999 (76561199083613071@steam).
+2026-07-22 12:05:38.983 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP330 to MightyHornet999 (76561199083613071@steam).
+2026-07-22 12:05:39.166 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP330 to MightyHornet999 (76561199083613071@steam).
+2026-07-22 12:05:39.316 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP330 to MightyHornet999 (76561199083613071@steam).
+2026-07-22 12:05:39.466 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP330 to MightyHornet999 (76561199083613071@steam).
+2026-07-22 12:05:39.616 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP330 to MightyHornet999 (76561199083613071@steam).
+2026-07-22 12:05:39.882 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP330 to MightyHornet999 (76561199083613071@steam).
+2026-07-22 12:05:40.066 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP330 to MightyHornet999 (76561199083613071@steam).
+2026-07-22 12:05:40.216 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP330 to MightyHornet999 (76561199083613071@steam).
+2026-07-22 12:05:40.399 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP330 to MightyHornet999 (76561199083613071@steam).
+2026-07-22 12:05:40.549 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP330 to MightyHornet999 (76561199083613071@steam).
+2026-07-22 12:05:40.699 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP330 to MightyHornet999 (76561199083613071@steam).
+2026-07-22 12:05:40.849 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP330 to MightyHornet999 (76561199083613071@steam).
+2026-07-22 12:05:40.999 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP330 to MightyHornet999 (76561199083613071@steam).
+2026-07-22 12:05:41.166 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP330 to MightyHornet999 (76561199083613071@steam).
+2026-07-22 12:05:41.332 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP330 to MightyHornet999 (76561199083613071@steam).
+2026-07-22 12:05:41.482 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP330 to MightyHornet999 (76561199083613071@steam).
+2026-07-22 12:05:41.649 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP330 to MightyHornet999 (76561199083613071@steam).
+2026-07-22 12:05:41.802 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP330 to MightyHornet999 (76561199083613071@steam).
+2026-07-22 12:05:41.950 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP330 to MightyHornet999 (76561199083613071@steam).
+2026-07-22 12:05:42.132 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP330 to MightyHornet999 (76561199083613071@steam).
+2026-07-22 12:05:42.283 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP330 to MightyHornet999 (76561199083613071@steam).
+2026-07-22 12:05:42.466 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP330 to MightyHornet999 (76561199083613071@steam).
+2026-07-22 12:05:42.583 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP330 to MightyHornet999 (76561199083613071@steam).
+2026-07-22 12:05:42.766 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP330 to MightyHornet999 (76561199083613071@steam).
+2026-07-22 12:05:42.916 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP330 to MightyHornet999 (76561199083613071@steam).
+2026-07-22 12:05:43.066 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP330 to MightyHornet999 (76561199083613071@steam).
+2026-07-22 12:05:43.183 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP330 to MightyHornet999 (76561199083613071@steam).
+2026-07-22 12:05:43.366 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP330 to MightyHornet999 (76561199083613071@steam).
+2026-07-22 12:05:43.549 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP330 to MightyHornet999 (76561199083613071@steam).
+2026-07-22 12:05:43.699 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP330 to MightyHornet999 (76561199083613071@steam).
+2026-07-22 12:05:43.849 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP330 to MightyHornet999 (76561199083613071@steam).
+2026-07-22 12:05:43.999 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP330 to MightyHornet999 (76561199083613071@steam).
+2026-07-22 12:05:44.149 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP330 to MightyHornet999 (76561199083613071@steam).
+2026-07-22 12:05:44.332 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP330 to MightyHornet999 (76561199083613071@steam).
+2026-07-22 12:05:44.483 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP330 to MightyHornet999 (76561199083613071@steam).
+2026-07-22 12:05:44.632 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP330 to MightyHornet999 (76561199083613071@steam).
+2026-07-22 12:05:44.783 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP330 to MightyHornet999 (76561199083613071@steam).
+2026-07-22 12:05:44.966 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP330 to MightyHornet999 (76561199083613071@steam).
+2026-07-22 12:05:45.082 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP330 to MightyHornet999 (76561199083613071@steam).
+2026-07-22 12:05:45.266 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP330 to MightyHornet999 (76561199083613071@steam).
+2026-07-22 12:05:45.449 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP330 to MightyHornet999 (76561199083613071@steam).
+2026-07-22 12:05:45.616 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP330 to MightyHornet999 (76561199083613071@steam).
+2026-07-22 12:05:45.832 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP330 to MightyHornet999 (76561199083613071@steam).
+2026-07-22 12:05:45.983 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP330 to MightyHornet999 (76561199083613071@steam).
+2026-07-22 12:05:46.199 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP330 to MightyHornet999 (76561199083613071@steam).
+2026-07-22 12:05:46.549 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP330 to MightyHornet999 (76561199083613071@steam).
+2026-07-22 12:05:47.183 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP330 to MightyHornet999 (76561199083613071@steam).
+2026-07-22 12:05:47.366 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP330 to MightyHornet999 (76561199083613071@steam).
+2026-07-22 12:06:11.783 +10:00 | Game Event          | Game logic     | Decontamination started.
+2026-07-22 12:08:05.437 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave Pink candy to MightyHornet999 (76561199083613071@steam).
+2026-07-22 12:08:13.794 +10:00 | Suicide             | Class change   | MightyHornet999 (76561199083613071@steam), playing as Chaos Insurgency Marauder, has commited suicide. Specific death reason: Explosion. caused by MightyHornet999.
+2026-07-22 12:08:28.484 +10:00 | Remote Admin        | Class change   | MightyHornet999 (76561199083613071@steam) changed role of player MightyHornet999 (76561199083613071@steam) to ChaosMarauder.
+2026-07-22 12:09:30.647 +10:00 | Remote Admin - Misc | Data access    | MightyHornet999 (76561199083613071@steam) accessed IP address of player 2 (MightyHornet999).
+2026-07-22 12:09:33.447 +10:00 | Remote Admin - Misc | Data access    | MightyHornet999 (76561199083613071@steam) accessed IP address of player 2 (MightyHornet999).
+2026-07-22 12:09:35.347 +10:00 | Remote Admin - Misc | Data access    | MightyHornet999 (76561199083613071@steam) accessed authentication token of player 2 (MightyHornet999).
+2026-07-22 12:09:40.364 +10:00 | Remote Admin - Misc | Data access    | MightyHornet999 (76561199083613071@steam) accessed IP address of player 2 (MightyHornet999).
+2026-07-22 12:12:28.507 +10:00 | Remote Admin        | Class change   | MightyHornet999 (76561199083613071@steam) changed role of player MightyHornet999 (76561199083613071@steam) to Scp096.
+2026-07-22 12:14:39.988 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam)'s Your current state server-side is: RageState: Docile | AbilityState: None
+2026-07-22 12:15:00.539 +10:00 | Game Event          | Door           | MightyHornet999 (76561199083613071@steam) destroyed unnamed door using Scp096.
+2026-07-22 12:15:03.322 +10:00 | Game Event          | Door           | MightyHornet999 (76561199083613071@steam) destroyed unnamed door using Scp096.
+2026-07-22 12:15:05.805 +10:00 | Game Event          | Door           | MightyHornet999 (76561199083613071@steam) destroyed unnamed door using Scp096.
+2026-07-22 12:15:09.206 +10:00 | Game Event          | Door           | MightyHornet999 (76561199083613071@steam) opened CHECKPOINT_EZ_HCZ_A.
+2026-07-22 12:15:14.305 +10:00 | Game Event          | Door           | MightyHornet999 (76561199083613071@steam) destroyed unnamed door using Scp096.
+2026-07-22 12:15:15.372 +10:00 | Game Event          | Door           | MightyHornet999 (76561199083613071@steam) destroyed unnamed door using Scp096.
+2026-07-22 12:16:23.877 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) started a cassie announcement: FUCK .
+2026-07-22 12:25:36.707 +10:00 | Remote Admin        | Class change   | MightyHornet999 (76561199083613071@steam) changed role of player MightyHornet999 (76561199083613071@steam) to ChaosMarauder.
+2026-07-22 12:26:01.992 +10:00 | Game Event          | Door           | MightyHornet999 (76561199083613071@steam) opened CHECKPOINT_EZ_HCZ_A.
+2026-07-22 12:29:54.768 +10:00 | Game Event          | Door           | MightyHornet999 (76561199083613071@steam) opened HCZ_ARMORY.
+2026-07-22 12:31:07.852 +10:00 | Game Event          | Door           | MightyHornet999 (76561199083613071@steam) opened HID_LAB.
+2026-07-22 12:31:10.319 +10:00 | Game Event          | Door           | MightyHornet999 (76561199083613071@steam) opened HID_CHAMBER.
+2026-07-22 12:31:48.753 +10:00 | Game Event          | Door           | MightyHornet999 (76561199083613071@steam) opened CHECKPOINT_EZ_HCZ_A.
+2026-07-22 12:32:19.808 +10:00 | Remote Admin - Misc | Administrative | MightyHornet999 (76561199083613071@steam) has spawned a dummy with the nickname Dummy.
+2026-07-22 12:32:19.810 +10:00 | Connection update   | Permissions    | Dummy (ID_Dummy) has been assigned to group Dummy.
+2026-07-22 12:32:19.829 +10:00 | Game Event          | Class change   | Player Dummy (ID_Dummy) respawned as NtfPrivate.
+2026-07-22 12:32:19.830 +10:00 | Game Event          | Class change   | WaveSpawner has successfully spawned 1 players as FoundationForces!
+2026-07-22 12:32:27.192 +10:00 | Kill                | Class change   | Dummy (ID_Dummy), playing as Nine-Tailed Fox Private, has been killed by MightyHornet999 (76561199083613071@steam) playing as: Chaos Insurgency Marauder. Specific death reason: Jailbirded by MightyHornet999.
+2026-07-22 12:32:27.197 +10:00 | Suicide             | Class change   | MightyHornet999 (76561199083613071@steam), playing as Chaos Insurgency Marauder, has commited suicide. Specific death reason: Explosion. caused by MightyHornet999.
+2026-07-22 12:32:27.199 +10:00 | Game Event          | Door           | MightyHornet999 (76561199083613071@steam) destroyed unnamed door using Grenade.
+2026-07-22 12:32:28.848 +10:00 | Game Event          | Game logic     | Round finished! Anomalies: 0 | Chaos: 0 | Facility Forces: 0 | D escaped percentage: 0 | S escaped percentage: 1.

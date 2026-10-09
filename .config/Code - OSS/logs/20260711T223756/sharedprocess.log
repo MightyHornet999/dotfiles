@@ -1,0 +1,10 @@
+2026-07-11 22:37:57.498 [info] Started initializing default profile extensions in extensions installation folder. file:///home/admin/.vscode-oss/extensions
+2026-07-11 22:37:57.552 [warning] Failed to create default profile extensions manifest in extensions installation folder. file:///home/admin/.vscode-oss/extensions Unable to create file 'vscode-userdata:/home/admin/.vscode-oss/extensions/extensions.json' that already exists when overwrite flag is not set
+2026-07-11 22:37:57.553 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/admin/.vscode-oss/extensions
+2026-07-11 22:40:25.854 [info] Getting Manifest... theqtcompany.qt-qml
+2026-07-11 22:40:26.402 [info] Installing extension: theqtcompany.qt-qml {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/admin/.vscode-oss/extensions/extensions.json","path":"/home/admin/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"isBuiltin":false,"isApplicationScoped":false,"productVersion":{"version":"1.127.0","date":"2026-06-30T11:53:00Z"}}
+2026-07-11 22:40:26.723 [info] Getting Manifest... theqtcompany.qt-core
+2026-07-11 22:40:27.342 [info] Installing extension: theqtcompany.qt-core {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/admin/.vscode-oss/extensions/extensions.json","path":"/home/admin/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"isBuiltin":false,"isApplicationScoped":false,"productVersion":{"version":"1.127.0","date":"2026-06-30T11:53:00Z"},"installGivenVersion":false,"context":{"dependecyOrPackExtensionInstall":true}}
+2026-07-11 22:40:29.182 [info] Extension signature verification result for theqtcompany.qt-qml: Success. Executed: true. Duration: 277ms.
+2026-07-11 22:40:29.201 [info] Extracted extension to file:///home/admin/.vscode-oss/extensions/theqtcompany.qt-qml-1.14.0-universal: theqtcompany.qt-qml
+2026-07-11 22:40:29.206 [info] Renamed to /home/admin/.vscode-oss/extensions/theqtcompany.qt-qml-1.14.0-universal

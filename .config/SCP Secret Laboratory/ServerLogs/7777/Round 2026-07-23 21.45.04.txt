@@ -1,0 +1,489 @@
+2026-07-23 21:45:04.717 +10:00 | Internal            | Game logic     | Started logging.
+2026-07-23 21:45:04.717 +10:00 | Internal            | Game logic     | Game version: 14.2.7.
+2026-07-23 21:45:04.717 +10:00 | Internal            | Game logic     | Build type: Release.
+2026-07-23 21:45:04.717 +10:00 | Internal            | Game logic     | Build timestamp: 2026-05-21 09:02:02Z.
+2026-07-23 21:45:04.717 +10:00 | Internal            | Game logic     | Headless: True.
+2026-07-23 21:45:09.650 +10:00 | Connection update   | Networking     | 76561199083613071@steam preauthenticated from endpoint 192.168.15.1:51051.
+2026-07-23 21:45:09.894 +10:00 | Connection update   | Networking     | 76561199154923632@steam preauthenticated from endpoint 120.158.30.179:63206.
+2026-07-23 21:45:16.922 +10:00 | Connection update   | Networking     | 76561199083613071@steam authenticated from endpoint 192.168.15.1:51051. Player ID assigned: 7. Auth token serial number: qeAHBuE5-ZzfbaaI3.
+2026-07-23 21:45:16.922 +10:00 | Connection update   | Networking     | Nickname of 76561199083613071@steam is now MightyHornet999.
+2026-07-23 21:45:16.922 +10:00 | Connection update   | Permissions    | MightyHornet999 (76561199083613071@steam) has been assigned to group BIG MAN.
+2026-07-23 21:45:17.746 +10:00 | Connection update   | Networking     | 76561199154923632@steam authenticated from endpoint 120.158.30.179:63206. Player ID assigned: 8. Auth token serial number: v35Uiusy-6FxUY4Zy.
+2026-07-23 21:45:17.746 +10:00 | Connection update   | Networking     | Nickname of 76561199154923632@steam is now Miniryder.
+2026-07-23 21:45:17.746 +10:00 | Connection update   | Permissions    | Miniryder (76561199154923632@steam) has been assigned to group ADMIN.
+2026-07-23 21:45:20.594 +10:00 | Remote Admin - Misc | Administrative | MightyHornet999 (76561199083613071@steam) has spawned a dummy with the nickname Dummy.
+2026-07-23 21:45:20.594 +10:00 | Connection update   | Permissions    | Dummy (ID_Dummy) has been assigned to group Dummy.
+2026-07-23 21:45:20.777 +10:00 | Remote Admin - Misc | Administrative | MightyHornet999 (76561199083613071@steam) has spawned a dummy with the nickname Dummy.
+2026-07-23 21:45:20.778 +10:00 | Connection update   | Permissions    | Dummy (ID_Dummy) has been assigned to group Dummy.
+2026-07-23 21:45:20.960 +10:00 | Remote Admin - Misc | Administrative | MightyHornet999 (76561199083613071@steam) has spawned a dummy with the nickname Dummy.
+2026-07-23 21:45:20.960 +10:00 | Connection update   | Permissions    | Dummy (ID_Dummy) has been assigned to group Dummy.
+2026-07-23 21:45:21.111 +10:00 | Remote Admin - Misc | Administrative | MightyHornet999 (76561199083613071@steam) has spawned a dummy with the nickname Dummy.
+2026-07-23 21:45:21.111 +10:00 | Connection update   | Permissions    | Dummy (ID_Dummy) has been assigned to group Dummy.
+2026-07-23 21:45:21.228 +10:00 | Remote Admin - Misc | Administrative | MightyHornet999 (76561199083613071@steam) has spawned a dummy with the nickname Dummy.
+2026-07-23 21:45:21.228 +10:00 | Connection update   | Permissions    | Dummy (ID_Dummy) has been assigned to group Dummy.
+2026-07-23 21:45:21.410 +10:00 | Remote Admin - Misc | Administrative | MightyHornet999 (76561199083613071@steam) has spawned a dummy with the nickname Dummy.
+2026-07-23 21:45:21.411 +10:00 | Connection update   | Permissions    | Dummy (ID_Dummy) has been assigned to group Dummy.
+2026-07-23 21:45:21.527 +10:00 | Remote Admin - Misc | Administrative | MightyHornet999 (76561199083613071@steam) has spawned a dummy with the nickname Dummy.
+2026-07-23 21:45:21.528 +10:00 | Connection update   | Permissions    | Dummy (ID_Dummy) has been assigned to group Dummy.
+2026-07-23 21:45:21.710 +10:00 | Remote Admin - Misc | Administrative | MightyHornet999 (76561199083613071@steam) has spawned a dummy with the nickname Dummy.
+2026-07-23 21:45:21.711 +10:00 | Connection update   | Permissions    | Dummy (ID_Dummy) has been assigned to group Dummy.
+2026-07-23 21:45:21.827 +10:00 | Remote Admin - Misc | Administrative | MightyHornet999 (76561199083613071@steam) has spawned a dummy with the nickname Dummy.
+2026-07-23 21:45:21.828 +10:00 | Connection update   | Permissions    | Dummy (ID_Dummy) has been assigned to group Dummy.
+2026-07-23 21:45:21.977 +10:00 | Remote Admin - Misc | Administrative | MightyHornet999 (76561199083613071@steam) has spawned a dummy with the nickname Dummy.
+2026-07-23 21:45:21.978 +10:00 | Connection update   | Permissions    | Dummy (ID_Dummy) has been assigned to group Dummy.
+2026-07-23 21:45:22.094 +10:00 | Remote Admin - Misc | Administrative | MightyHornet999 (76561199083613071@steam) has spawned a dummy with the nickname Dummy.
+2026-07-23 21:45:22.095 +10:00 | Connection update   | Permissions    | Dummy (ID_Dummy) has been assigned to group Dummy.
+2026-07-23 21:45:22.244 +10:00 | Remote Admin - Misc | Administrative | MightyHornet999 (76561199083613071@steam) has spawned a dummy with the nickname Dummy.
+2026-07-23 21:45:22.245 +10:00 | Connection update   | Permissions    | Dummy (ID_Dummy) has been assigned to group Dummy.
+2026-07-23 21:45:22.428 +10:00 | Remote Admin - Misc | Administrative | MightyHornet999 (76561199083613071@steam) has spawned a dummy with the nickname Dummy.
+2026-07-23 21:45:22.428 +10:00 | Connection update   | Permissions    | Dummy (ID_Dummy) has been assigned to group Dummy.
+2026-07-23 21:45:22.578 +10:00 | Remote Admin - Misc | Administrative | MightyHornet999 (76561199083613071@steam) has spawned a dummy with the nickname Dummy.
+2026-07-23 21:45:22.578 +10:00 | Connection update   | Permissions    | Dummy (ID_Dummy) has been assigned to group Dummy.
+2026-07-23 21:45:22.728 +10:00 | Remote Admin - Misc | Administrative | MightyHornet999 (76561199083613071@steam) has spawned a dummy with the nickname Dummy.
+2026-07-23 21:45:22.729 +10:00 | Connection update   | Permissions    | Dummy (ID_Dummy) has been assigned to group Dummy.
+2026-07-23 21:45:22.911 +10:00 | Remote Admin - Misc | Administrative | MightyHornet999 (76561199083613071@steam) has spawned a dummy with the nickname Dummy.
+2026-07-23 21:45:22.912 +10:00 | Connection update   | Permissions    | Dummy (ID_Dummy) has been assigned to group Dummy.
+2026-07-23 21:45:23.061 +10:00 | Remote Admin - Misc | Administrative | MightyHornet999 (76561199083613071@steam) has spawned a dummy with the nickname Dummy.
+2026-07-23 21:45:23.062 +10:00 | Connection update   | Permissions    | Dummy (ID_Dummy) has been assigned to group Dummy.
+2026-07-23 21:45:23.211 +10:00 | Remote Admin - Misc | Administrative | MightyHornet999 (76561199083613071@steam) has spawned a dummy with the nickname Dummy.
+2026-07-23 21:45:23.212 +10:00 | Connection update   | Permissions    | Dummy (ID_Dummy) has been assigned to group Dummy.
+2026-07-23 21:45:23.361 +10:00 | Remote Admin - Misc | Administrative | MightyHornet999 (76561199083613071@steam) has spawned a dummy with the nickname Dummy.
+2026-07-23 21:45:23.362 +10:00 | Connection update   | Permissions    | Dummy (ID_Dummy) has been assigned to group Dummy.
+2026-07-23 21:45:23.511 +10:00 | Remote Admin - Misc | Administrative | MightyHornet999 (76561199083613071@steam) has spawned a dummy with the nickname Dummy.
+2026-07-23 21:45:23.512 +10:00 | Connection update   | Permissions    | Dummy (ID_Dummy) has been assigned to group Dummy.
+2026-07-23 21:45:23.661 +10:00 | Remote Admin - Misc | Administrative | MightyHornet999 (76561199083613071@steam) has spawned a dummy with the nickname Dummy.
+2026-07-23 21:45:23.661 +10:00 | Connection update   | Permissions    | Dummy (ID_Dummy) has been assigned to group Dummy.
+2026-07-23 21:45:23.741 +10:00 | Game Event          | Game logic     | Round has been started.
+2026-07-23 21:45:23.845 +10:00 | Remote Admin - Misc | Administrative | MightyHornet999 (76561199083613071@steam) has spawned a dummy with the nickname Dummy.
+2026-07-23 21:45:23.845 +10:00 | Connection update   | Permissions    | Dummy (ID_Dummy) has been assigned to group Dummy.
+2026-07-23 21:45:23.961 +10:00 | Remote Admin - Misc | Administrative | MightyHornet999 (76561199083613071@steam) has spawned a dummy with the nickname Dummy.
+2026-07-23 21:45:23.961 +10:00 | Connection update   | Permissions    | Dummy (ID_Dummy) has been assigned to group Dummy.
+2026-07-23 21:45:32.475 +10:00 | Remote Admin        | Class change   | MightyHornet999 (76561199083613071@steam) changed role of player MightyHornet999 (76561199083613071@steam) to Tutorial.
+2026-07-23 21:45:32.477 +10:00 | Remote Admin        | Class change   | MightyHornet999 (76561199083613071@steam) changed role of player Miniryder (76561199154923632@steam) to Tutorial.
+2026-07-23 21:45:32.479 +10:00 | Remote Admin        | Class change   | MightyHornet999 (76561199083613071@steam) changed role of player Dummy (ID_Dummy) to Tutorial.
+2026-07-23 21:45:32.481 +10:00 | Remote Admin        | Class change   | MightyHornet999 (76561199083613071@steam) changed role of player Dummy (ID_Dummy) to Tutorial.
+2026-07-23 21:45:32.483 +10:00 | Remote Admin        | Class change   | MightyHornet999 (76561199083613071@steam) changed role of player Dummy (ID_Dummy) to Tutorial.
+2026-07-23 21:45:32.485 +10:00 | Remote Admin        | Class change   | MightyHornet999 (76561199083613071@steam) changed role of player Dummy (ID_Dummy) to Tutorial.
+2026-07-23 21:45:32.488 +10:00 | Remote Admin        | Class change   | MightyHornet999 (76561199083613071@steam) changed role of player Dummy (ID_Dummy) to Tutorial.
+2026-07-23 21:45:32.490 +10:00 | Remote Admin        | Class change   | MightyHornet999 (76561199083613071@steam) changed role of player Dummy (ID_Dummy) to Tutorial.
+2026-07-23 21:45:32.491 +10:00 | Remote Admin        | Class change   | MightyHornet999 (76561199083613071@steam) changed role of player Dummy (ID_Dummy) to Tutorial.
+2026-07-23 21:45:32.493 +10:00 | Remote Admin        | Class change   | MightyHornet999 (76561199083613071@steam) changed role of player Dummy (ID_Dummy) to Tutorial.
+2026-07-23 21:45:32.497 +10:00 | Remote Admin        | Class change   | MightyHornet999 (76561199083613071@steam) changed role of player Dummy (ID_Dummy) to Tutorial.
+2026-07-23 21:45:32.502 +10:00 | Remote Admin        | Class change   | MightyHornet999 (76561199083613071@steam) changed role of player Dummy (ID_Dummy) to Tutorial.
+2026-07-23 21:45:32.506 +10:00 | Remote Admin        | Class change   | MightyHornet999 (76561199083613071@steam) changed role of player Dummy (ID_Dummy) to Tutorial.
+2026-07-23 21:45:32.511 +10:00 | Remote Admin        | Class change   | MightyHornet999 (76561199083613071@steam) changed role of player Dummy (ID_Dummy) to Tutorial.
+2026-07-23 21:45:32.516 +10:00 | Remote Admin        | Class change   | MightyHornet999 (76561199083613071@steam) changed role of player Dummy (ID_Dummy) to Tutorial.
+2026-07-23 21:45:32.522 +10:00 | Remote Admin        | Class change   | MightyHornet999 (76561199083613071@steam) changed role of player Dummy (ID_Dummy) to Tutorial.
+2026-07-23 21:45:32.527 +10:00 | Remote Admin        | Class change   | MightyHornet999 (76561199083613071@steam) changed role of player Dummy (ID_Dummy) to Tutorial.
+2026-07-23 21:45:32.531 +10:00 | Remote Admin        | Class change   | MightyHornet999 (76561199083613071@steam) changed role of player Dummy (ID_Dummy) to Tutorial.
+2026-07-23 21:45:32.538 +10:00 | Remote Admin        | Class change   | MightyHornet999 (76561199083613071@steam) changed role of player Dummy (ID_Dummy) to Tutorial.
+2026-07-23 21:45:32.543 +10:00 | Remote Admin        | Class change   | MightyHornet999 (76561199083613071@steam) changed role of player Dummy (ID_Dummy) to Tutorial.
+2026-07-23 21:45:32.548 +10:00 | Remote Admin        | Class change   | MightyHornet999 (76561199083613071@steam) changed role of player Dummy (ID_Dummy) to Tutorial.
+2026-07-23 21:45:32.554 +10:00 | Remote Admin        | Class change   | MightyHornet999 (76561199083613071@steam) changed role of player Dummy (ID_Dummy) to Tutorial.
+2026-07-23 21:45:32.560 +10:00 | Remote Admin        | Class change   | MightyHornet999 (76561199083613071@steam) changed role of player Dummy (ID_Dummy) to Tutorial.
+2026-07-23 21:45:32.565 +10:00 | Remote Admin        | Class change   | MightyHornet999 (76561199083613071@steam) changed role of player Dummy (ID_Dummy) to Tutorial.
+2026-07-23 21:45:32.569 +10:00 | Remote Admin        | Class change   | MightyHornet999 (76561199083613071@steam) changed role of player Dummy (ID_Dummy) to Tutorial.
+2026-07-23 21:45:34.907 +10:00 | Game Event          | Game logic     | Round finished! Anomalies: 0 | Chaos: 0 | Facility Forces: 0 | D escaped percentage: 0 | S escaped percentage: 0.
+2026-07-23 21:45:40.131 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to MightyHornet999 (76561199083613071@steam).
+2026-07-23 21:45:40.131 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Miniryder (76561199154923632@steam).
+2026-07-23 21:45:40.131 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:40.131 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:40.131 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:40.131 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:40.131 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:40.131 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:40.131 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:40.131 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:40.131 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:40.131 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:40.131 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:40.131 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:40.131 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:40.131 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:40.131 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:40.131 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:40.131 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:40.131 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:40.131 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:40.131 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:40.131 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:40.131 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:40.131 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:40.314 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to MightyHornet999 (76561199083613071@steam).
+2026-07-23 21:45:40.314 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Miniryder (76561199154923632@steam).
+2026-07-23 21:45:40.314 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:40.314 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:40.314 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:40.314 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:40.314 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:40.314 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:40.314 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:40.314 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:40.314 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:40.314 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:40.314 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:40.314 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:40.314 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:40.314 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:40.314 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:40.314 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:40.314 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:40.314 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:40.314 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:40.314 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:40.314 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:40.314 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:40.314 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:40.430 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to MightyHornet999 (76561199083613071@steam).
+2026-07-23 21:45:40.430 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Miniryder (76561199154923632@steam).
+2026-07-23 21:45:40.430 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:40.430 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:40.430 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:40.430 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:40.430 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:40.430 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:40.430 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:40.431 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:40.431 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:40.431 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:40.431 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:40.431 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:40.431 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:40.431 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:40.431 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:40.431 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:40.431 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:40.431 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:40.431 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:40.431 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:40.431 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:40.431 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:40.431 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:40.580 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to MightyHornet999 (76561199083613071@steam).
+2026-07-23 21:45:40.580 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Miniryder (76561199154923632@steam).
+2026-07-23 21:45:40.580 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:40.580 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:40.580 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:40.580 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:40.580 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:40.581 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:40.581 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:40.581 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:40.581 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:40.581 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:40.581 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:40.581 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:40.581 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:40.581 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:40.581 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:40.581 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:40.581 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:40.581 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:40.581 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:40.581 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:40.581 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:40.581 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:40.581 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:40.731 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to MightyHornet999 (76561199083613071@steam).
+2026-07-23 21:45:40.731 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Miniryder (76561199154923632@steam).
+2026-07-23 21:45:40.731 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:40.731 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:40.731 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:40.731 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:40.731 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:40.731 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:40.731 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:40.731 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:40.731 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:40.731 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:40.731 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:40.731 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:40.731 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:40.731 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:40.731 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:40.731 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:40.731 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:40.731 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:40.731 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:40.731 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:40.731 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:40.731 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:40.731 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:40.880 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to MightyHornet999 (76561199083613071@steam).
+2026-07-23 21:45:40.880 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Miniryder (76561199154923632@steam).
+2026-07-23 21:45:40.880 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:40.880 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:40.880 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:40.880 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:40.880 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:40.880 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:40.880 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:40.880 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:40.880 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:40.880 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:40.880 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:40.880 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:40.881 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:40.881 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:40.881 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:40.881 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:40.881 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:40.881 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:40.881 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:40.881 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:40.881 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:40.881 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:40.881 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:41.031 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to MightyHornet999 (76561199083613071@steam).
+2026-07-23 21:45:41.031 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Miniryder (76561199154923632@steam).
+2026-07-23 21:45:41.031 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:41.031 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:41.031 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:41.031 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:41.031 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:41.031 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:41.031 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:41.031 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:41.031 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:41.031 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:41.031 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:41.031 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:41.031 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:41.031 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:41.031 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:41.031 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:41.031 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:41.031 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:41.031 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:41.031 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:41.031 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:41.031 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:41.031 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:41.181 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to MightyHornet999 (76561199083613071@steam).
+2026-07-23 21:45:41.181 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Miniryder (76561199154923632@steam).
+2026-07-23 21:45:41.181 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:41.181 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:41.181 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:41.181 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:41.181 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:41.181 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:41.181 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:41.181 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:41.181 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:41.181 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:41.181 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:41.181 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:41.181 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:41.181 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:41.181 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:41.181 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:41.181 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:41.181 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:41.181 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:41.181 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:41.181 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:41.181 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:41.181 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:41.314 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to MightyHornet999 (76561199083613071@steam).
+2026-07-23 21:45:41.314 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Miniryder (76561199154923632@steam).
+2026-07-23 21:45:41.314 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:41.314 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:41.314 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:41.314 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:41.314 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:41.314 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:41.314 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:41.314 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:41.314 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:41.314 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:41.314 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:41.315 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:41.315 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:41.315 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:41.315 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:41.315 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:41.315 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:41.315 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:41.315 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:41.315 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:41.315 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:41.315 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:41.315 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:41.463 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to MightyHornet999 (76561199083613071@steam).
+2026-07-23 21:45:41.463 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Miniryder (76561199154923632@steam).
+2026-07-23 21:45:41.463 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:41.463 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:41.463 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:41.463 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:41.463 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:41.463 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:41.463 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:41.463 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:41.463 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:41.463 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:41.464 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:41.464 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:41.464 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:41.464 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:41.464 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:41.464 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:41.464 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:41.464 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:41.464 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:41.464 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:41.464 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:41.464 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:41.464 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:41.614 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to MightyHornet999 (76561199083613071@steam).
+2026-07-23 21:45:41.614 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Miniryder (76561199154923632@steam).
+2026-07-23 21:45:41.614 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:41.614 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:41.614 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:41.614 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:41.614 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:41.614 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:41.614 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:41.614 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:41.614 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:41.614 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:41.614 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:41.614 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:41.614 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:41.614 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:41.614 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:41.614 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:41.614 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:41.614 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:41.614 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:41.614 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:41.614 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:41.614 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:41.614 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:41.763 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to MightyHornet999 (76561199083613071@steam).
+2026-07-23 21:45:41.763 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Miniryder (76561199154923632@steam).
+2026-07-23 21:45:41.763 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:41.763 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:41.763 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:41.763 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:41.763 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:41.763 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:41.763 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:41.763 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:41.763 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:41.763 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:41.763 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:41.763 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:41.763 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:41.763 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:41.763 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:41.763 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:41.763 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:41.763 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:41.763 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:41.763 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:41.763 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:41.763 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:41.763 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:41.901 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to MightyHornet999 (76561199083613071@steam).
+2026-07-23 21:45:41.901 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Miniryder (76561199154923632@steam).
+2026-07-23 21:45:41.901 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:41.901 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:41.901 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:41.901 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:41.901 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:41.901 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:41.901 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:41.901 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:41.901 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:41.901 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:41.901 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:41.901 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:41.901 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:41.901 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:41.901 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:41.901 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:41.901 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:41.901 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:41.901 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:41.901 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:41.901 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:41.901 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:41.901 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:42.033 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to MightyHornet999 (76561199083613071@steam).
+2026-07-23 21:45:42.033 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Miniryder (76561199154923632@steam).
+2026-07-23 21:45:42.033 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:42.033 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:42.034 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:42.034 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:42.034 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:42.034 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:42.034 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:42.034 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:42.034 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:42.034 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:42.034 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:42.034 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:42.034 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:42.034 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:42.034 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:42.034 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:42.034 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:42.034 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:42.034 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:42.034 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:42.034 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:42.034 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:42.034 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:42.150 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to MightyHornet999 (76561199083613071@steam).
+2026-07-23 21:45:42.150 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Miniryder (76561199154923632@steam).
+2026-07-23 21:45:42.150 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:42.150 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:42.150 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:42.150 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:42.150 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:42.150 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:42.150 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:42.150 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:42.150 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:42.150 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:42.150 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:42.150 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:42.150 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:42.150 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:42.150 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:42.150 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:42.150 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:42.150 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:42.150 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:42.150 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:42.150 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:42.150 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:42.150 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:42.333 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to MightyHornet999 (76561199083613071@steam).
+2026-07-23 21:45:42.333 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Miniryder (76561199154923632@steam).
+2026-07-23 21:45:42.333 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:42.333 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:42.333 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:42.333 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:42.333 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:42.333 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:42.333 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:42.333 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:42.333 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:42.333 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:42.333 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:42.334 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:42.334 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:42.334 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:42.334 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:42.334 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:42.334 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:42.334 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:42.334 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:42.334 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:42.334 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:42.334 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:42.334 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP018 to Dummy (ID_Dummy).
+2026-07-23 21:45:43.869 +10:00 | Game Event          | Throwable      | Miniryder (76561199154923632@steam) threw SCP018.
+2026-07-23 21:45:45.922 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) administratively disarmed MightyHornet999 (76561199083613071@steam), Miniryder (76561199154923632@steam), Dummy (ID_Dummy), Dummy (ID_Dummy), Dummy (ID_Dummy), Dummy (ID_Dummy), Dummy (ID_Dummy), Dummy (ID_Dummy), Dummy (ID_Dummy), Dummy (ID_Dummy), Dummy (ID_Dummy), Dummy (ID_Dummy), Dummy (ID_Dummy), Dummy (ID_Dummy), Dummy (ID_Dummy), Dummy (ID_Dummy), Dummy (ID_Dummy), Dummy (ID_Dummy), Dummy (ID_Dummy), Dummy (ID_Dummy), Dummy (ID_Dummy), Dummy (ID_Dummy), Dummy (ID_Dummy), Dummy (ID_Dummy), Dummy (ID_Dummy).
+2026-07-23 21:45:46.231 +10:00 | Suicide             | Class change   | Dummy (ID_Dummy), playing as Tutorial, has commited suicide. Specific death reason: SCP-018 thrown by: Dummy.

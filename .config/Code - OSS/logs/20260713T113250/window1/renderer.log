@@ -1,0 +1,13 @@
+2026-07-13 11:32:51.219 [info] Started local extension host with pid 5949.
+2026-07-13 11:32:52.401 [info] [AccountPolicyGate] apply: state=inactive, reason=undefined, isRestricted=false
+2026-07-13 11:32:52.595 [error] [Extension Host] Sending request failed.
+2026-07-13 11:32:52.695 [error] [Extension Host] Error: Unexpected SIGPIPE
+	at process.<anonymous> (file:///usr/lib/code/out/bootstrap-fork.js:407:1604)
+	at process.emit (node:events:509:28)
+2026-07-13 11:32:52.700 [error] [Extension Host] Sending request failed.
+2026-07-13 11:32:52.701 [error] [Extension Host] Sending request failed.
+2026-07-13 11:32:52.702 [error] [Extension Host] Sending request failed.
+2026-07-13 11:32:52.703 [error] [Extension Host] Sending request failed.
+2026-07-13 11:32:53.557 [error] An unknown error occurred. Please consult the log for more details.
+2026-07-13 11:32:54.084 [info] [perf] Render performance baseline is 22ms
+2026-07-13 11:32:57.401 [info] [AccountPolicyGate] apply: state=inactive, reason=undefined, isRestricted=false

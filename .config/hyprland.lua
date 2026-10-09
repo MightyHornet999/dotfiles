@@ -1,1 +1,1 @@
-hypr/hyprland.lua
+../dotfiles/.config/hyprland.lua

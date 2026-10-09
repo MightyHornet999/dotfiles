@@ -1,0 +1,24 @@
+2026-07-15 10:52:07.628 +10:00 | Internal            | Game logic     | Started logging.
+2026-07-15 10:52:07.628 +10:00 | Internal            | Game logic     | Game version: 14.2.7.
+2026-07-15 10:52:07.628 +10:00 | Internal            | Game logic     | Build type: Release.
+2026-07-15 10:52:07.628 +10:00 | Internal            | Game logic     | Build timestamp: 2026-05-21 09:02:02Z.
+2026-07-15 10:52:07.628 +10:00 | Internal            | Game logic     | Headless: True.
+2026-07-15 10:52:12.807 +10:00 | Connection update   | Networking     | 76561199083613071@steam preauthenticated from endpoint 192.168.15.14:56947.
+2026-07-15 10:52:20.723 +10:00 | Connection update   | Networking     | 76561199083613071@steam authenticated from endpoint 192.168.15.14:56947. Player ID assigned: 12. Auth token serial number: pj2yJMVm-6pJor/gz.
+2026-07-15 10:52:20.723 +10:00 | Connection update   | Networking     | Nickname of 76561199083613071@steam is now MightyHornet999.
+2026-07-15 10:52:20.723 +10:00 | Connection update   | Permissions    | MightyHornet999 (76561199083613071@steam) has been assigned to group SERVER OWNER.
+2026-07-15 10:54:07.418 +10:00 | Game Event          | Game logic     | Round has been started.
+2026-07-15 10:54:07.418 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) forced round start.
+2026-07-15 10:54:33.385 +10:00 | Game Event          | Door           | MightyHornet999 (76561199083613071@steam) opened 173_BOTTOM.
+2026-07-15 10:54:42.202 +10:00 | Game Event          | Door           | MightyHornet999 (76561199083613071@steam) opened 173_ARMORY.
+2026-07-15 10:55:05.402 +10:00 | Game Event          | Door           | MightyHornet999 (76561199083613071@steam) opened 330.
+2026-07-15 10:55:07.419 +10:00 | Game Event          | Door           | MightyHornet999 (76561199083613071@steam) opened 330_CHAMBER.
+2026-07-15 10:55:56.036 +10:00 | Game Event          | Door           | MightyHornet999 (76561199083613071@steam) opened 914.
+2026-07-15 10:56:47.620 +10:00 | Game Event          | Door           | MightyHornet999 (76561199083613071@steam) opened CHECKPOINT_LCZ_B.
+2026-07-15 11:00:44.199 +10:00 | Game Event          | Door           | MightyHornet999 (76561199083613071@steam) opened 096.
+2026-07-15 11:01:33.500 +10:00 | Game Event          | Door           | MightyHornet999 (76561199083613071@steam) opened CHECKPOINT_EZ_HCZ_A.
+2026-07-15 11:02:41.420 +10:00 | Game Event          | Door           | MightyHornet999 (76561199083613071@steam) opened SURFACE_GATE.
+2026-07-15 11:03:04.720 +10:00 | Game Event          | Door           | MightyHornet999 (76561199083613071@steam) opened ESCAPE_PRIMARY.
+2026-07-15 11:03:06.637 +10:00 | Game Event          | Door           | MightyHornet999 (76561199083613071@steam) opened ESCAPE_SECONDARY.
+2026-07-15 11:03:59.522 +10:00 | Remote Admin        | Class change   | MightyHornet999 (76561199083613071@steam) changed role of player MightyHornet999 (76561199083613071@steam) to Scp079.
+2026-07-15 11:05:52.438 +10:00 | Game Event          | Game logic     | Decontamination started.

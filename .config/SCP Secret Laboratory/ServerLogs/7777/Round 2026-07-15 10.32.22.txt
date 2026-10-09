@@ -1,0 +1,20 @@
+2026-07-15 10:32:22.919 +10:00 | Internal            | Game logic     | Started logging.
+2026-07-15 10:32:22.919 +10:00 | Internal            | Game logic     | Game version: 14.2.7.
+2026-07-15 10:32:22.919 +10:00 | Internal            | Game logic     | Build type: Release.
+2026-07-15 10:32:22.919 +10:00 | Internal            | Game logic     | Build timestamp: 2026-05-21 09:02:02Z.
+2026-07-15 10:32:22.919 +10:00 | Internal            | Game logic     | Headless: True.
+2026-07-15 10:34:16.199 +10:00 | Connection update   | Networking     | 76561199083613071@steam preauthenticated from endpoint 192.168.15.14:60937.
+2026-07-15 10:34:27.654 +10:00 | Connection update   | Networking     | 76561199083613071@steam authenticated from endpoint 192.168.15.14:60937. Player ID assigned: 2. Auth token serial number: pj2yJMVm-x2x0Za16.
+2026-07-15 10:34:27.656 +10:00 | Connection update   | Networking     | Nickname of 76561199083613071@steam is now MightyHornet999.
+2026-07-15 10:34:27.661 +10:00 | Connection update   | Permissions    | MightyHornet999 (76561199083613071@steam) has been assigned to group SERVER OWNER.
+2026-07-15 10:34:38.269 +10:00 | Remote Admin        | Class change   | MightyHornet999 (76561199083613071@steam) changed role of player MightyHornet999 (76561199083613071@steam) to Scp079.
+2026-07-15 10:35:02.694 +10:00 | Remote Admin - Misc | Administrative | MightyHornet999 (76561199083613071@steam) has spawned a dummy with the nickname Dummy.
+2026-07-15 10:35:02.695 +10:00 | Connection update   | Permissions    | Dummy (ID_Dummy) has been assigned to group Dummy.
+2026-07-15 10:35:02.844 +10:00 | Remote Admin - Misc | Administrative | MightyHornet999 (76561199083613071@steam) has spawned a dummy with the nickname Dummy.
+2026-07-15 10:35:02.844 +10:00 | Connection update   | Permissions    | Dummy (ID_Dummy) has been assigned to group Dummy.
+2026-07-15 10:35:02.993 +10:00 | Remote Admin - Misc | Administrative | MightyHornet999 (76561199083613071@steam) has spawned a dummy with the nickname Dummy.
+2026-07-15 10:35:02.994 +10:00 | Connection update   | Permissions    | Dummy (ID_Dummy) has been assigned to group Dummy.
+2026-07-15 10:35:09.875 +10:00 | Game Event          | Game logic     | Round has been started.
+2026-07-15 10:35:09.875 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) forced round start.
+2026-07-15 10:38:58.089 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) forced round restart.
+2026-07-15 10:38:58.173 +10:00 | Kill                | Class change   | MightyHornet999 (76561199083613071@steam), playing as SCP-079, has died. Specific death reason: Unknown cause of death.

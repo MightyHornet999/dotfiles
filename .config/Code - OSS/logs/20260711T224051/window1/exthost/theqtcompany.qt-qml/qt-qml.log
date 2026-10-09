@@ -1,0 +1,28 @@
+2026-07-11 22:44:59.442 [info] [installer] Installer initialized with path: /home/admin/.config/Code - OSS/User/globalStorage/theqtcompany.qt-qml/qmlls
+2026-07-11 22:44:59.442 [info] [project] Creating project:/home/admin/.config/quickshell
+2026-07-11 22:44:59.442 [info] [qmlls-queue] Enqueueing start operation
+2026-07-11 22:44:59.442 [info] [qmlls] Fetching release information
+2026-07-11 22:44:59.442 [info] [qmlls-queue] Processing start operation
+2026-07-11 22:44:59.442 [error] [qmlls] Cannot start QML language server. not found
+2026-07-11 22:44:59.442 [info] [qmlls-queue] Completed start operation
+2026-07-11 22:44:59.738 [info] [installer] Fetched release info from: https://qtccache.qt.io/QMLLS/LatestRelease
+2026-07-11 22:44:59.740 [info] [installer] Selected asset: qmllanguageserver-linux-x64-0.7.zip
+2026-07-11 22:44:59.741 [info] [qmlls] Status Check: Not Installed
+2026-07-11 22:45:01.554 [info] [qmlls] Installing QML language server
+2026-07-11 22:45:01.554 [info] [qmlls] Stopping QML language server to install new version
+2026-07-11 22:45:01.554 [info] [qmlls-queue] Enqueueing stop operation
+2026-07-11 22:45:01.554 [info] [qmlls-queue] Processing stop operation
+2026-07-11 22:45:01.554 [info] [qmlls-queue] Completed stop operation
+2026-07-11 22:45:01.554 [info] [qmlls] Installing: qmllanguageserver-linux-x64-0.7.zip, 0.7
+2026-07-11 22:45:01.554 [info] [qmlls-queue] Enqueueing install operation
+2026-07-11 22:45:01.557 [info] [qmlls-queue] Processing install operation
+2026-07-11 22:45:01.557 [info] [installer] Downloading from: https://github.com/TheQtCompanyRnD/qmlls-workflow/releases/download/0.7/qmllanguageserver-linux-x64-0.7.zip
+2026-07-11 22:45:03.699 [info] [installer] Unzipping to: /home/admin/.config/Code - OSS/User/globalStorage/theqtcompany.qt-qml/qmlls/files
+2026-07-11 22:45:03.840 [info] [installer] QML language server installed to: /home/admin/.config/Code - OSS/User/globalStorage/theqtcompany.qt-qml/qmlls/files/qmlls
+2026-07-11 22:45:03.840 [info] [qmlls-queue] Completed install operation
+2026-07-11 22:45:03.840 [info] [qmlls] Installation done
+2026-07-11 22:45:03.840 [info] [qmlls-queue] Enqueueing start operation
+2026-07-11 22:45:03.840 [info] [qmlls-queue] Processing start operation
+2026-07-11 22:45:03.844 [info] [qmlls] Starting QML Language Server with:
+2026-07-11 22:45:03.844 [info] [qmlls-queue] Completed start operation
+2026-07-11 22:45:03.859 [error] [qmlls] LanguageClient has failed to start with /home/admin/.config/Code - OSS/User/globalStorage/theqtcompany.qt-qml/qmlls/files/qmlls

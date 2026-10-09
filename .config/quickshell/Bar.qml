@@ -7,124 +7,211 @@ import QtQuick
 import QtQuick.Layouts
 
 
-// Scope allows functions to be declared outside of the modules
-// and allows us to use Global(ish) variables
-Scope {
-  id: root
-  property string time
 
-  property color colBg: "#1a1b26"
-  property color colPri: "#dd4967"
-  property color colSec: "#7aa2f7"
-  property color colTer: "#e0af68"
-  property string fontFamily: "JetBrainsMono Nerd Font"
+PanelWindow {
+  id: main
+  anchors { top: true; left: true; right: true }
+  //exclusionMode: ExclusionMode.Ignore
 
-  property int cpuUsage: 0
-  property var lastCpuIdle: 0
-  property var lastCpuTotal: 0
+  property var theme: Theme {}
 
-  Variants {
-    model: Quickshell.screens
+  implicitHeight: 46
 
-    PanelWindow {
+  color: "#00ffffff"
 
-      required property var modelData
-      screen: modelData
+  mask: Region { item: island }
 
-      anchors {
-        top: true
-        left: true
-        right: true
-      }
-      implicitHeight: 30
-      color: "#1a1b26"
+  Rectangle {
+    id: island
+    anchors.horizontalCenter: parent.horizontalCenter
+    anchors.top: parent.top
+    anchors.topMargin: 8
+        clip: true
 
+    implicitWidth: ( main.screen.width * 4/5 )
+    implicitHeight: main.implicitHeight - 8
+    radius: 6
+
+    color: theme.bg1
+
+    RowLayout {
+      implicitWidth: ( main.screen.width * 4/5 )
+      implicitHeight: 36
+
+      anchors.fill: parent
+      spacing: 0
+      clip: true
       
-      // Add widgets here
-      RowLayout {
-        anchors.fill: parent
-        anchors.margins: 8
-        
-        // Repeaters are like for loops
-        Repeater {
-          model: 6  // The number of loops
-                    // use <index> to call the current number
+      // Left
+      Item { 
+        id: leftItem
+
+        Layout.fillWidth: true
+        Layout.fillHeight: true
+        Layout.maximumWidth: parent.width / 2 - centerItem.width / 2
+        //Layout.minimumWidth: parent.width / 2 - centerItem.width / 2
+
+        Rectangle { 
+          anchors.fill: parent
+          color: "#00ffffff"//theme.bg2
+
+          radius: 6
+          anchors.margins: 4
+        }
+      }
+
+      Item {
+        Layout.fillWidth: true  
+      }
+
+      // Center
+      Item { 
+        id: centerItem
+
+        Layout.fillHeight: true
+        width: 86
+        Rectangle { 
+          anchors.fill: parent
+          color: theme.bg2
+
+          radius: 6
+          anchors.margins: 4
+
           Text {
-            // Including Hyprland data
-            property var ws: Hyprland.workspaces.values.find(w => w.id === index + 1)
-            property bool isActive: Hyprland.focusedWorkspace?.id === (index + 1)
+            anchors.centerIn: parent
+            text: Qt.formatDateTime(clock.date, "hh:mm")
+            color: theme.fg1
 
-            text: index + 1
-            // Active => Has windows => Empty 
-            color: isActive ? root.colPri : (ws ? root.colSec : "#444b6a")
             font { pixelSize: 14; bold: true }
-
-            MouseArea {
-              anchors.fill: parent
-              onClicked: Hyprland.dispatch("hl.dsp.focus({ workspace = " + (index + 1) + "})")
-            }
+          }
+          SystemClock {
+            id: clock
+            precision: SystemClock.Minutes
           }
         }
-        Item { Layout.fillWidth: true }  
       }
 
-      // Clock
-      Text {
-        anchors.centerIn: parent
-        text: root.time
-        color: "#a9b1d6"
+      Item {
+          Layout.fillWidth: true
       }
-    
-      RowLayout {
-        anchors.fill: parent
-        anchors.margins: 8
+
+      // Right
+      Item { 
+        id: rightItem
+
+        Layout.fillWidth: true
+        Layout.fillHeight: true
+        Layout.maximumWidth: parent.width / 2 - centerItem.width / 2
+        Rectangle { 
+          anchors.fill: parent
+          color: "#00ffffff" //theme.bg2
+
+          radius: 6
+          anchors.margins: 4
+        }
+      }
+
+    }
+
+  }
+
   
-        
-        Item { Layout.fillWidth: true }
+}
+
+
+    /*
+    RowLayout {
+
+      implicitWidth: ( main.screen.width * 4/5 )
+      implicitHeight: 36
+
+      anchors.top: parent.top
+      anchors.bottom: parent.bottom
+
+
+      Rectangle {
+        id: activeBorder
+
+        anchors {
+          top: parent.top
+          topMargin: 4
+
+          bottom: parent.bottom
+          bottomMargin: 5
+
+          left: parent.left
+          leftMargin: 4
+        }
+
+        color: theme.bg2
+        property real margin: 4
+        implicitWidth: activeText.implicitWidth + (amargin * 2)
+        implicitHeight: 24
+        radius: 6
 
         Text {
-          text: "CPU: " + cpuUsage + "%"
-          color: root.colTer
-          font { family: root.fontFamily; pixelSize: 16; bold: true }
+          id: activeText
+
+          text: Hyprland.activeToplevel ? Hyprland.activeToplevel.title : "Desktop"
+
+          anchors {
+            top: parent.top
+            topMargin: 4
+
+            bottom: parent.bottom
+            bottomMargin: 5
+
+            left: parent.left
+            leftMargin: 4
+          }
+
+          color: theme.fg1
+
+          font { pixelSize: 14 }
         }
       }
 
-    }
-  }
+      // Place before for left
+      Text { Layout.fillWidth: true }
+      // Place after for center
 
-  Process {
-    id: dateProc
-    command: ["date"]
-    running: true
+ 
+      Rectangle {
+        id: clockBorder
+ 
+        anchors {
+          top: parent.top
+          topMargin: 4
 
-    stdout: StdioCollector {
-      onStreamFinished: root.time = this.text
-    }
-  }
+          bottom: parent.bottom
+          bottomMargin: 5
 
-  Timer {
-    interval: 1000
-    running: true
-    repeat: true
-    onTriggered: dateProc.running = true, cpuProc.running = true
-  }
-
-  Process {
-    id: cpuProc
-    command: ["sh", "-c", "head -1 /proc/stat"]
-
-    stdout: SplitParser {
-      onRead: data => {
-        var p = data.trim().split(/\s+/)
-        var idle = parseInt(p[4]) + parseInt(p[5])
-        var total = p.slice(1,8).reduce((a, b) => a + parseInt(b), 0)
-        if (lastCpuTotal > 0) {
-          cpuUsage = Math.round(100 * (1- (idle - lastCpuIdle) / (total - lastCpuTotal)))
+          horizontalCenter: parent.horizontalCenter
         }
-        lastCpuTotal = total
-        lastCpuIdle = idle
+
+        color: theme.bg2
+
+        implicitWidth: 70
+        implicitHeight: 24
+        radius: 6
+        
+
+        Text {
+          anchors.centerIn: parent
+          text: Qt.formatDateTime(clock.date, "hh:mm")
+          color: theme.fg1
+
+          font { pixelSize: 14; bold: true }
+        }
+
+        SystemClock {
+          id: clock
+          precision: SystemClock.Minutes
+        }
+        
+        // Place before for center
+        Text { Layout.fillWidth: true }
+        // Place after for Right
+        
       }
-    }
-    Component.onCompleted: running = true
-  }
-}
+    }*/

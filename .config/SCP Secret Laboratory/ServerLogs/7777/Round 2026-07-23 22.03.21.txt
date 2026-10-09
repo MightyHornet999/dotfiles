@@ -1,0 +1,369 @@
+2026-07-23 22:03:21.823 +10:00 | Internal            | Game logic     | Started logging.
+2026-07-23 22:03:21.823 +10:00 | Internal            | Game logic     | Game version: 14.2.7.
+2026-07-23 22:03:21.823 +10:00 | Internal            | Game logic     | Build type: Release.
+2026-07-23 22:03:21.823 +10:00 | Internal            | Game logic     | Build timestamp: 2026-05-21 09:02:02Z.
+2026-07-23 22:03:21.823 +10:00 | Internal            | Game logic     | Headless: True.
+2026-07-23 22:03:26.976 +10:00 | Connection update   | Networking     | 76561199083613071@steam preauthenticated from endpoint 127.0.0.1:42136.
+2026-07-23 22:03:27.434 +10:00 | Connection update   | Networking     | 76561199154923632@steam preauthenticated from endpoint 120.158.30.179:50409.
+2026-07-23 22:03:33.305 +10:00 | Connection update   | Networking     | 76561199083613071@steam authenticated from endpoint 127.0.0.1:42136. Player ID assigned: 21. Auth token serial number: qeAHBuE5-4kUWc8Jy.
+2026-07-23 22:03:33.305 +10:00 | Connection update   | Networking     | Nickname of 76561199083613071@steam is now MightyHornet999.
+2026-07-23 22:03:33.305 +10:00 | Connection update   | Permissions    | MightyHornet999 (76561199083613071@steam) has been assigned to group BIG MAN.
+2026-07-23 22:03:34.986 +10:00 | Connection update   | Networking     | 76561199154923632@steam authenticated from endpoint 120.158.30.179:50409. Player ID assigned: 22. Auth token serial number: v35Uiusy-PKtR0ezB.
+2026-07-23 22:03:34.986 +10:00 | Connection update   | Networking     | Nickname of 76561199154923632@steam is now Miniryder.
+2026-07-23 22:03:34.986 +10:00 | Connection update   | Permissions    | Miniryder (76561199154923632@steam) has been assigned to group ADMIN.
+2026-07-23 22:03:37.988 +10:00 | Remote Admin - Misc | Administrative | MightyHornet999 (76561199083613071@steam) has spawned a dummy with the nickname Dummy.
+2026-07-23 22:03:37.988 +10:00 | Connection update   | Permissions    | Dummy (ID_Dummy) has been assigned to group Dummy.
+2026-07-23 22:03:38.139 +10:00 | Remote Admin - Misc | Administrative | MightyHornet999 (76561199083613071@steam) has spawned a dummy with the nickname Dummy.
+2026-07-23 22:03:38.139 +10:00 | Connection update   | Permissions    | Dummy (ID_Dummy) has been assigned to group Dummy.
+2026-07-23 22:03:39.386 +10:00 | Game Event          | Game logic     | Round has been started.
+2026-07-23 22:03:39.386 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) forced round start.
+2026-07-23 22:03:44.540 +10:00 | Remote Admin        | Class change   | MightyHornet999 (76561199083613071@steam) changed role of player Dummy (ID_Dummy) to NtfCaptain.
+2026-07-23 22:03:46.490 +10:00 | Remote Admin        | Class change   | MightyHornet999 (76561199083613071@steam) changed role of player Dummy (ID_Dummy) to ChaosMarauder.
+2026-07-23 22:03:50.856 +10:00 | Remote Admin        | Class change   | MightyHornet999 (76561199083613071@steam) changed role of player Miniryder (76561199154923632@steam) to Scientist.
+2026-07-23 22:03:51.603 +10:00 | Game Event          | Warhead        | Countdown started.
+2026-07-23 22:03:51.603 +10:00 | Remote Admin        | Administrative | Miniryder (76561199154923632@steam) started warhead detonation.
+2026-07-23 22:03:51.904 +10:00 | Game Event          | Warhead        | Detonation cancelled.
+2026-07-23 22:03:51.904 +10:00 | Remote Admin        | Administrative | Miniryder (76561199154923632@steam) cancelled warhead detonation.
+2026-07-23 22:04:00.390 +10:00 | Remote Admin        | Class change   | MightyHornet999 (76561199083613071@steam) changed role of player Miniryder (76561199154923632@steam) to FacilityGuard.
+2026-07-23 22:04:03.687 +10:00 | Game Event          | Warhead        | Countdown started.
+2026-07-23 22:04:03.687 +10:00 | Remote Admin        | Administrative | Miniryder (76561199154923632@steam) started warhead detonation.
+2026-07-23 22:04:03.920 +10:00 | Game Event          | Warhead        | Detonation cancelled.
+2026-07-23 22:04:03.920 +10:00 | Remote Admin        | Administrative | Miniryder (76561199154923632@steam) cancelled warhead detonation.
+2026-07-23 22:04:04.287 +10:00 | Game Event          | Warhead        | Countdown started.
+2026-07-23 22:04:04.287 +10:00 | Remote Admin        | Administrative | Miniryder (76561199154923632@steam) started warhead detonation.
+2026-07-23 22:04:04.290 +10:00 | Remote Admin        | Class change   | MightyHornet999 (76561199083613071@steam) changed role of player Miniryder (76561199154923632@steam) to FacilityGuard.
+2026-07-23 22:04:04.887 +10:00 | Game Event          | Warhead        | Detonation cancelled.
+2026-07-23 22:04:04.887 +10:00 | Remote Admin        | Administrative | Miniryder (76561199154923632@steam) cancelled warhead detonation.
+2026-07-23 22:04:07.389 +10:00 | Remote Admin        | Class change   | MightyHornet999 (76561199083613071@steam) changed role of player Miniryder (76561199154923632@steam) to Scientist.
+2026-07-23 22:04:07.920 +10:00 | Game Event          | Warhead        | Countdown started.
+2026-07-23 22:04:07.920 +10:00 | Remote Admin        | Administrative | Miniryder (76561199154923632@steam) started warhead detonation.
+2026-07-23 22:04:08.103 +10:00 | Game Event          | Warhead        | Detonation cancelled.
+2026-07-23 22:04:08.104 +10:00 | Remote Admin        | Administrative | Miniryder (76561199154923632@steam) cancelled warhead detonation.
+2026-07-23 22:04:08.970 +10:00 | Game Event          | Warhead        | Countdown started.
+2026-07-23 22:04:08.970 +10:00 | Remote Admin        | Administrative | Miniryder (76561199154923632@steam) started warhead detonation.
+2026-07-23 22:04:09.270 +10:00 | Game Event          | Warhead        | Countdown started.
+2026-07-23 22:04:09.270 +10:00 | Remote Admin        | Administrative | Miniryder (76561199154923632@steam) started warhead detonation.
+2026-07-23 22:04:09.520 +10:00 | Game Event          | Warhead        | Countdown started.
+2026-07-23 22:04:09.520 +10:00 | Remote Admin        | Administrative | Miniryder (76561199154923632@steam) started warhead detonation.
+2026-07-23 22:04:09.670 +10:00 | Game Event          | Warhead        | Countdown started.
+2026-07-23 22:04:09.670 +10:00 | Remote Admin        | Administrative | Miniryder (76561199154923632@steam) started warhead detonation.
+2026-07-23 22:04:09.853 +10:00 | Game Event          | Warhead        | Countdown started.
+2026-07-23 22:04:09.853 +10:00 | Remote Admin        | Administrative | Miniryder (76561199154923632@steam) started warhead detonation.
+2026-07-23 22:04:09.906 +10:00 | Remote Admin        | Class change   | MightyHornet999 (76561199083613071@steam) changed role of player Miniryder (76561199154923632@steam) to Scientist.
+2026-07-23 22:04:10.037 +10:00 | Game Event          | Warhead        | Countdown started.
+2026-07-23 22:04:10.037 +10:00 | Remote Admin        | Administrative | Miniryder (76561199154923632@steam) started warhead detonation.
+2026-07-23 22:04:10.089 +10:00 | Remote Admin        | Class change   | MightyHornet999 (76561199083613071@steam) changed role of player Miniryder (76561199154923632@steam) to Scientist.
+2026-07-23 22:04:10.153 +10:00 | Game Event          | Warhead        | Countdown started.
+2026-07-23 22:04:10.153 +10:00 | Remote Admin        | Administrative | Miniryder (76561199154923632@steam) started warhead detonation.
+2026-07-23 22:04:10.487 +10:00 | Game Event          | Warhead        | Detonation cancelled.
+2026-07-23 22:04:10.487 +10:00 | Remote Admin        | Administrative | Miniryder (76561199154923632@steam) cancelled warhead detonation.
+2026-07-23 22:04:15.887 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP1344 to MightyHornet999 (76561199083613071@steam).
+2026-07-23 22:04:15.887 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP1344 to Miniryder (76561199154923632@steam).
+2026-07-23 22:04:27.554 +10:00 | Game Event          | Warhead        | Countdown started.
+2026-07-23 22:04:27.554 +10:00 | Remote Admin        | Administrative | Miniryder (76561199154923632@steam) started warhead detonation.
+2026-07-23 22:04:27.887 +10:00 | Game Event          | Warhead        | Detonation cancelled.
+2026-07-23 22:04:27.888 +10:00 | Remote Admin        | Administrative | Miniryder (76561199154923632@steam) cancelled warhead detonation.
+2026-07-23 22:04:32.304 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) administratively disarmed Miniryder (76561199154923632@steam).
+2026-07-23 22:04:34.538 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) administratively released , Miniryder (76561199154923632@steam).
+2026-07-23 22:04:38.623 +10:00 | Remote Admin        | Class change   | MightyHornet999 (76561199083613071@steam) changed role of player Miniryder (76561199154923632@steam) to Scientist.
+2026-07-23 22:04:43.521 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP1344 to Miniryder (76561199154923632@steam).
+2026-07-23 22:04:55.338 +10:00 | Remote Admin        | Administrative | Miniryder (76561199154923632@steam) gave AntiSCP207 to Miniryder (76561199154923632@steam).
+2026-07-23 22:04:56.421 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP1853 to MightyHornet999 (76561199083613071@steam).
+2026-07-23 22:04:56.422 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP1853 to Miniryder (76561199154923632@steam).
+2026-07-23 22:04:57.772 +10:00 | Remote Admin        | Administrative | Miniryder (76561199154923632@steam) gave SCP207 to Miniryder (76561199154923632@steam).
+2026-07-23 22:05:02.788 +10:00 | Remote Admin        | Administrative | Miniryder (76561199154923632@steam) enabled god mode for player Miniryder (76561199154923632@steam).
+2026-07-23 22:05:11.905 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP207 to MightyHornet999 (76561199083613071@steam).
+2026-07-23 22:05:11.905 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP207 to Miniryder (76561199154923632@steam).
+2026-07-23 22:05:15.488 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP207 to MightyHornet999 (76561199083613071@steam).
+2026-07-23 22:05:15.488 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP207 to Miniryder (76561199154923632@steam).
+2026-07-23 22:05:15.639 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP207 to MightyHornet999 (76561199083613071@steam).
+2026-07-23 22:05:15.639 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP207 to Miniryder (76561199154923632@steam).
+2026-07-23 22:05:15.822 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP207 to MightyHornet999 (76561199083613071@steam).
+2026-07-23 22:05:15.822 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP207 to Miniryder (76561199154923632@steam).
+2026-07-23 22:05:15.988 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP207 to MightyHornet999 (76561199083613071@steam).
+2026-07-23 22:05:15.988 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP207 to Miniryder (76561199154923632@steam).
+2026-07-23 22:05:35.023 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave Jailbird to MightyHornet999 (76561199083613071@steam).
+2026-07-23 22:05:35.023 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave Jailbird to Miniryder (76561199154923632@steam).
+2026-07-23 22:05:54.276 +10:00 | Remote Admin        | Class change   | MightyHornet999 (76561199083613071@steam) changed role of player MightyHornet999 (76561199083613071@steam) to Scp939.
+2026-07-23 22:05:57.210 +10:00 | Remote Admin        | Class change   | MightyHornet999 (76561199083613071@steam) changed role of player MightyHornet999 (76561199083613071@steam) to ClassD.
+2026-07-23 22:06:00.908 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave Jailbird to MightyHornet999 (76561199083613071@steam).
+2026-07-23 22:06:02.108 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP1344 to MightyHornet999 (76561199083613071@steam).
+2026-07-23 22:06:21.994 +10:00 | Game Event          | Warhead        | Countdown started.
+2026-07-23 22:06:21.994 +10:00 | Remote Admin        | Administrative | Miniryder (76561199154923632@steam) started warhead detonation.
+2026-07-23 22:06:22.226 +10:00 | Game Event          | Warhead        | Detonation cancelled.
+2026-07-23 22:06:22.226 +10:00 | Remote Admin        | Administrative | Miniryder (76561199154923632@steam) cancelled warhead detonation.
+2026-07-23 22:06:22.259 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP207 to MightyHornet999 (76561199083613071@steam).
+2026-07-23 22:06:23.977 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave AntiSCP207 to MightyHornet999 (76561199083613071@steam).
+2026-07-23 22:06:27.160 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave Medkit to MightyHornet999 (76561199083613071@steam).
+2026-07-23 22:06:27.343 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave Medkit to MightyHornet999 (76561199083613071@steam).
+2026-07-23 22:06:27.543 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave Medkit to MightyHornet999 (76561199083613071@steam).
+2026-07-23 22:06:27.726 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave Medkit to MightyHornet999 (76561199083613071@steam).
+2026-07-23 22:06:29.076 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave Medkit to MightyHornet999 (76561199083613071@steam).
+2026-07-23 22:06:29.293 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave Medkit to MightyHornet999 (76561199083613071@steam).
+2026-07-23 22:07:03.779 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) enabled bypass mode for players MightyHornet999 (76561199083613071@steam), Miniryder (76561199154923632@steam).
+2026-07-23 22:07:11.679 +10:00 | Game Event          | Door           | Miniryder (76561199154923632@steam) opened CHECKPOINT_EZ_HCZ_A.
+2026-07-23 22:07:19.679 +10:00 | Game Event          | Warhead        | Countdown started.
+2026-07-23 22:07:19.679 +10:00 | Remote Admin        | Administrative | Miniryder (76561199154923632@steam) started warhead detonation.
+2026-07-23 22:07:20.496 +10:00 | Game Event          | Warhead        | Detonation cancelled.
+2026-07-23 22:07:20.496 +10:00 | Remote Admin        | Administrative | Miniryder (76561199154923632@steam) cancelled warhead detonation.
+2026-07-23 22:07:28.763 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) forced the LCZ decontamination to begin.
+2026-07-23 22:07:28.763 +10:00 | Game Event          | Game logic     | Decontamination started.
+2026-07-23 22:07:53.002 +10:00 | Game Event          | Door           | MightyHornet999 (76561199083613071@steam) opened CHECKPOINT_EZ_HCZ_A.
+2026-07-23 22:08:06.769 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) ran open on the following door(s): GATE_A
+2026-07-23 22:08:09.769 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) ran open on the following door(s): GATE_B
+2026-07-23 22:08:12.453 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) teleported player Miniryder (76561199154923632@steam) to door GATE_B.
+2026-07-23 22:08:14.436 +10:00 | Game Event          | Door           | MightyHornet999 (76561199083613071@steam) opened CHECKPOINT_EZ_HCZ_A.
+2026-07-23 22:09:01.891 +10:00 | Kill                | Class change   | MightyHornet999 (76561199083613071@steam), playing as Class-D Personnel, has been killed by Miniryder (76561199154923632@steam) playing as: Scientist. Specific death reason: Explosion. caused by Miniryder.
+2026-07-23 22:09:01.893 +10:00 | Game Event          | Door           | Miniryder (76561199154923632@steam) destroyed unnamed door using Grenade.
+2026-07-23 22:09:12.376 +10:00 | Remote Admin        | Administrative | Miniryder (76561199154923632@steam) disabled god mode for player Miniryder (76561199154923632@steam).
+2026-07-23 22:09:18.660 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) administratively disarmed Miniryder (76561199154923632@steam).
+2026-07-23 22:09:23.525 +10:00 | Remote Admin        | Administrative | Miniryder (76561199154923632@steam) enabled god mode for player Miniryder (76561199154923632@steam).
+2026-07-23 22:09:24.043 +10:00 | Game Event          | Class change   | Player MightyHornet999 (76561199083613071@steam) respawned as NtfPrivate.
+2026-07-23 22:09:24.043 +10:00 | Game Event          | Class change   | WaveSpawner has successfully spawned 1 players as FoundationForces!
+2026-07-23 22:09:34.146 +10:00 | Remote Admin        | Class change   | MightyHornet999 (76561199083613071@steam) changed role of player MightyHornet999 (76561199083613071@steam) to FacilityGuard.
+2026-07-23 22:09:34.149 +10:00 | Remote Admin        | Class change   | MightyHornet999 (76561199083613071@steam) changed role of player Miniryder (76561199154923632@steam) to FacilityGuard.
+2026-07-23 22:09:37.109 +10:00 | Remote Admin        | Administrative | Miniryder (76561199154923632@steam) disabled god mode for player Miniryder (76561199154923632@steam).
+2026-07-23 22:09:39.311 +10:00 | Remote Admin        | Class change   | MightyHornet999 (76561199083613071@steam) changed role of player MightyHornet999 (76561199083613071@steam) to ClassD.
+2026-07-23 22:09:45.658 +10:00 | Kill                | Class change   | MightyHornet999 (76561199083613071@steam), playing as Class-D Personnel, has been killed by Miniryder (76561199154923632@steam) playing as: Facility Guard. Specific death reason: Shot by Miniryder with GunFSP9 to the 'Body' hitbox.
+2026-07-23 22:09:54.743 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) applied a status effect SeveredHands for player Miniryder (76561199154923632@steam). Intensity: 1 - Duration: 0.
+2026-07-23 22:09:59.760 +10:00 | Remote Admin        | Administrative | Miniryder (76561199154923632@steam) brought player Miniryder (76561199154923632@steam).
+2026-07-23 22:10:01.993 +10:00 | Remote Admin        | Administrative | Miniryder (76561199154923632@steam) brought player Miniryder (76561199154923632@steam).
+2026-07-23 22:10:02.193 +10:00 | Remote Admin        | Administrative | Miniryder (76561199154923632@steam) brought player Miniryder (76561199154923632@steam).
+2026-07-23 22:10:02.345 +10:00 | Remote Admin        | Class change   | MightyHornet999 (76561199083613071@steam) changed role of player MightyHornet999 (76561199083613071@steam) to ClassD.
+2026-07-23 22:10:02.410 +10:00 | Remote Admin        | Administrative | Miniryder (76561199154923632@steam) brought players MightyHornet999 (76561199083613071@steam), Miniryder (76561199154923632@steam).
+2026-07-23 22:10:02.526 +10:00 | Remote Admin        | Administrative | Miniryder (76561199154923632@steam) brought players MightyHornet999 (76561199083613071@steam), Miniryder (76561199154923632@steam).
+2026-07-23 22:10:02.709 +10:00 | Remote Admin        | Administrative | Miniryder (76561199154923632@steam) brought players MightyHornet999 (76561199083613071@steam), Miniryder (76561199154923632@steam).
+2026-07-23 22:10:02.926 +10:00 | Remote Admin        | Administrative | Miniryder (76561199154923632@steam) brought players MightyHornet999 (76561199083613071@steam), Miniryder (76561199154923632@steam).
+2026-07-23 22:10:03.076 +10:00 | Remote Admin        | Administrative | Miniryder (76561199154923632@steam) brought players MightyHornet999 (76561199083613071@steam), Miniryder (76561199154923632@steam).
+2026-07-23 22:10:03.560 +10:00 | Remote Admin        | Administrative | Miniryder (76561199154923632@steam) brought players MightyHornet999 (76561199083613071@steam), Miniryder (76561199154923632@steam).
+2026-07-23 22:10:03.726 +10:00 | Remote Admin        | Administrative | Miniryder (76561199154923632@steam) brought players MightyHornet999 (76561199083613071@steam), Miniryder (76561199154923632@steam).
+2026-07-23 22:10:03.943 +10:00 | Remote Admin        | Administrative | Miniryder (76561199154923632@steam) brought players MightyHornet999 (76561199083613071@steam), Miniryder (76561199154923632@steam).
+2026-07-23 22:10:04.126 +10:00 | Remote Admin        | Administrative | Miniryder (76561199154923632@steam) brought players MightyHornet999 (76561199083613071@steam), Miniryder (76561199154923632@steam).
+2026-07-23 22:10:04.459 +10:00 | Remote Admin        | Administrative | Miniryder (76561199154923632@steam) brought players MightyHornet999 (76561199083613071@steam), Miniryder (76561199154923632@steam).
+2026-07-23 22:10:04.644 +10:00 | Remote Admin        | Administrative | Miniryder (76561199154923632@steam) brought players MightyHornet999 (76561199083613071@steam), Miniryder (76561199154923632@steam).
+2026-07-23 22:10:04.742 +10:00 | Kill                | Class change   | Miniryder (76561199154923632@steam), playing as Facility Guard, has died. Specific death reason: Severed Hands from SCP-330.
+2026-07-23 22:10:16.693 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave Pink candy to MightyHornet999 (76561199083613071@steam).
+2026-07-23 22:10:24.095 +10:00 | Remote Admin        | Class change   | MightyHornet999 (76561199083613071@steam) changed role of player Miniryder (76561199154923632@steam) to Scientist.
+2026-07-23 22:10:24.394 +10:00 | Remote Admin        | Administrative | Miniryder (76561199154923632@steam) set maximum health of player MightyHornet999 (76561199083613071@steam) to -1.
+2026-07-23 22:10:25.193 +10:00 | Remote Admin        | Administrative | Miniryder (76561199154923632@steam) set maximum health of player MightyHornet999 (76561199083613071@steam) to -1.
+2026-07-23 22:10:27.808 +10:00 | Suicide             | Class change   | MightyHornet999 (76561199083613071@steam), playing as Class-D Personnel, has commited suicide. Specific death reason: Explosion. caused by MightyHornet999.
+2026-07-23 22:10:27.810 +10:00 | Game Event          | Door           | MightyHornet999 (76561199083613071@steam) destroyed unnamed door using Grenade.
+2026-07-23 22:10:27.810 +10:00 | Kill                | Class change   | Miniryder (76561199154923632@steam), playing as Scientist, has been killed by MightyHornet999 (76561199083613071@steam) playing as: Class-D Personnel. Specific death reason: Explosion. caused by MightyHornet999.
+2026-07-23 22:10:32.895 +10:00 | Remote Admin        | Class change   | MightyHornet999 (76561199083613071@steam) changed role of player MightyHornet999 (76561199083613071@steam) to ClassD.
+2026-07-23 22:10:32.897 +10:00 | Remote Admin        | Class change   | MightyHornet999 (76561199083613071@steam) changed role of player Miniryder (76561199154923632@steam) to ClassD.
+2026-07-23 22:10:41.344 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) applied a status effect SeveredHands for player Miniryder (76561199154923632@steam). Intensity: 1 - Duration: 0.
+2026-07-23 22:10:41.944 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) applied a status effect SeveredHands for player Miniryder (76561199154923632@steam). Intensity: 0 - Duration: 0.
+2026-07-23 22:10:42.877 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) applied a status effect SeveredHands for player Miniryder (76561199154923632@steam). Intensity: 1 - Duration: 0.
+2026-07-23 22:10:43.144 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) applied a status effect SeveredHands for player Miniryder (76561199154923632@steam). Intensity: 0 - Duration: 0.
+2026-07-23 22:10:43.477 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) applied a status effect SeveredHands for player Miniryder (76561199154923632@steam). Intensity: 1 - Duration: 0.
+2026-07-23 22:10:43.777 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) applied a status effect SeveredHands for player Miniryder (76561199154923632@steam). Intensity: 0 - Duration: 0.
+2026-07-23 22:10:44.044 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) applied a status effect SeveredHands for player Miniryder (76561199154923632@steam). Intensity: 1 - Duration: 0.
+2026-07-23 22:10:44.227 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) applied a status effect SeveredHands for player Miniryder (76561199154923632@steam). Intensity: 1 - Duration: 0.
+2026-07-23 22:10:44.411 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) applied a status effect SeveredHands for player Miniryder (76561199154923632@steam). Intensity: 1 - Duration: 0.
+2026-07-23 22:10:44.561 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) applied a status effect SeveredHands for player Miniryder (76561199154923632@steam). Intensity: 1 - Duration: 0.
+2026-07-23 22:10:44.711 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) applied a status effect SeveredHands for player Miniryder (76561199154923632@steam). Intensity: 1 - Duration: 0.
+2026-07-23 22:10:45.111 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) applied a status effect SeveredHands for player Miniryder (76561199154923632@steam). Intensity: 0 - Duration: 0.
+2026-07-23 22:10:45.344 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) applied a status effect SeveredHands for player Miniryder (76561199154923632@steam). Intensity: 1 - Duration: 0.
+2026-07-23 22:10:45.527 +10:00 | Remote Admin        | Administrative | Miniryder (76561199154923632@steam) applied a status effect MovementBoost for player MightyHornet999 (76561199083613071@steam). Intensity: 1 - Duration: 0.
+2026-07-23 22:10:45.577 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) applied a status effect SeveredHands for player Miniryder (76561199154923632@steam). Intensity: 0 - Duration: 0.
+2026-07-23 22:10:45.727 +10:00 | Remote Admin        | Administrative | Miniryder (76561199154923632@steam) applied a status effect MovementBoost for player MightyHornet999 (76561199083613071@steam). Intensity: 1 - Duration: 0.
+2026-07-23 22:10:45.878 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) applied a status effect SeveredHands for player Miniryder (76561199154923632@steam). Intensity: 1 - Duration: 0.
+2026-07-23 22:10:45.911 +10:00 | Remote Admin        | Administrative | Miniryder (76561199154923632@steam) applied a status effect MovementBoost for player MightyHornet999 (76561199083613071@steam). Intensity: 1 - Duration: 0.
+2026-07-23 22:10:46.094 +10:00 | Remote Admin        | Administrative | Miniryder (76561199154923632@steam) applied a status effect MovementBoost for player MightyHornet999 (76561199083613071@steam). Intensity: 1 - Duration: 0.
+2026-07-23 22:10:46.094 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) applied a status effect SeveredHands for player Miniryder (76561199154923632@steam). Intensity: 0 - Duration: 0.
+2026-07-23 22:10:46.244 +10:00 | Remote Admin        | Administrative | Miniryder (76561199154923632@steam) applied a status effect MovementBoost for player MightyHornet999 (76561199083613071@steam). Intensity: 1 - Duration: 0.
+2026-07-23 22:10:46.361 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) applied a status effect SeveredHands for player Miniryder (76561199154923632@steam). Intensity: 1 - Duration: 0.
+2026-07-23 22:10:46.427 +10:00 | Remote Admin        | Administrative | Miniryder (76561199154923632@steam) applied a status effect MovementBoost for player MightyHornet999 (76561199083613071@steam). Intensity: 1 - Duration: 0.
+2026-07-23 22:10:46.611 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) applied a status effect SeveredHands for player Miniryder (76561199154923632@steam). Intensity: 0 - Duration: 0.
+2026-07-23 22:10:46.644 +10:00 | Remote Admin        | Administrative | Miniryder (76561199154923632@steam) applied a status effect MovementBoost for player MightyHornet999 (76561199083613071@steam). Intensity: 1 - Duration: 0.
+2026-07-23 22:10:46.844 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) applied a status effect SeveredHands for player Miniryder (76561199154923632@steam). Intensity: 1 - Duration: 0.
+2026-07-23 22:10:46.911 +10:00 | Remote Admin        | Administrative | Miniryder (76561199154923632@steam) applied a status effect MovementBoost for player MightyHornet999 (76561199083613071@steam). Intensity: 1 - Duration: 0.
+2026-07-23 22:10:47.111 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) applied a status effect SeveredHands for player Miniryder (76561199154923632@steam). Intensity: 0 - Duration: 0.
+2026-07-23 22:10:52.411 +10:00 | Remote Admin        | Administrative | Miniryder (76561199154923632@steam) applied a status effect Bleeding for player MightyHornet999 (76561199083613071@steam). Intensity: 1 - Duration: 0.
+2026-07-23 22:10:52.594 +10:00 | Remote Admin        | Administrative | Miniryder (76561199154923632@steam) applied a status effect Bleeding for player MightyHornet999 (76561199083613071@steam). Intensity: 1 - Duration: 0.
+2026-07-23 22:10:52.794 +10:00 | Remote Admin        | Administrative | Miniryder (76561199154923632@steam) applied a status effect Bleeding for player MightyHornet999 (76561199083613071@steam). Intensity: 1 - Duration: 0.
+2026-07-23 22:10:52.944 +10:00 | Remote Admin        | Administrative | Miniryder (76561199154923632@steam) applied a status effect Bleeding for player MightyHornet999 (76561199083613071@steam). Intensity: 1 - Duration: 0.
+2026-07-23 22:10:53.161 +10:00 | Remote Admin        | Administrative | Miniryder (76561199154923632@steam) applied a status effect Bleeding for player MightyHornet999 (76561199083613071@steam). Intensity: 1 - Duration: 0.
+2026-07-23 22:10:53.527 +10:00 | Remote Admin        | Administrative | Miniryder (76561199154923632@steam) applied a status effect Bleeding for player MightyHornet999 (76561199083613071@steam). Intensity: 1 - Duration: 0.
+2026-07-23 22:10:53.761 +10:00 | Remote Admin        | Administrative | Miniryder (76561199154923632@steam) applied a status effect Bleeding for player MightyHornet999 (76561199083613071@steam). Intensity: 1 - Duration: 0.
+2026-07-23 22:10:53.911 +10:00 | Remote Admin        | Administrative | Miniryder (76561199154923632@steam) applied a status effect Bleeding for player MightyHornet999 (76561199083613071@steam). Intensity: 1 - Duration: 0.
+2026-07-23 22:10:54.094 +10:00 | Remote Admin        | Administrative | Miniryder (76561199154923632@steam) applied a status effect Bleeding for player MightyHornet999 (76561199083613071@steam). Intensity: 1 - Duration: 0.
+2026-07-23 22:10:54.277 +10:00 | Remote Admin        | Administrative | Miniryder (76561199154923632@steam) applied a status effect Bleeding for player MightyHornet999 (76561199083613071@steam). Intensity: 1 - Duration: 0.
+2026-07-23 22:10:54.461 +10:00 | Remote Admin        | Administrative | Miniryder (76561199154923632@steam) applied a status effect Bleeding for player MightyHornet999 (76561199083613071@steam). Intensity: 1 - Duration: 0.
+2026-07-23 22:10:57.311 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) applied a status effect Sinkhole for player Miniryder (76561199154923632@steam). Intensity: 1 - Duration: 0.
+2026-07-23 22:11:09.094 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) applied a status effect PitDeath for player Miniryder (76561199154923632@steam). Intensity: 1 - Duration: 0.
+2026-07-23 22:11:09.109 +10:00 | Kill                | Class change   | Miniryder (76561199154923632@steam), playing as Class-D Personnel, has died. Specific death reason: Crushed.
+2026-07-23 22:11:22.747 +10:00 | Remote Admin        | Class change   | MightyHornet999 (76561199083613071@steam) changed role of player Miniryder (76561199154923632@steam) to ClassD.
+2026-07-23 22:11:25.245 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) applied a status effect Decontaminating for player Miniryder (76561199154923632@steam). Intensity: 1 - Duration: 0.
+2026-07-23 22:11:30.929 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) applied a status effect Decontaminating for player Miniryder (76561199154923632@steam). Intensity: 0 - Duration: 0.
+2026-07-23 22:11:37.446 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) applied a status effect Scanned for player Miniryder (76561199154923632@steam). Intensity: 1 - Duration: 0.
+2026-07-23 22:11:45.713 +10:00 | Remote Admin        | Administrative | Miniryder (76561199154923632@steam) applied a status effect MovementBoost for player Miniryder (76561199154923632@steam). Intensity: 255 - Duration: 5000.
+2026-07-23 22:11:48.163 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) applied a status effect NightVision for player MightyHornet999 (76561199083613071@steam). Intensity: 1 - Duration: 0.
+2026-07-23 22:11:50.779 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) applied a status effect NightVision for player Miniryder (76561199154923632@steam). Intensity: 1 - Duration: 0.
+2026-07-23 22:11:58.252 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) applied a status effect Lightweight for player MightyHornet999 (76561199083613071@steam). Intensity: 255 - Duration: 0.
+2026-07-23 22:12:12.803 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave Pink candy to MightyHornet999 (76561199083613071@steam).
+2026-07-23 22:12:16.767 +10:00 | Suicide             | Class change   | MightyHornet999 (76561199083613071@steam), playing as Class-D Personnel, has commited suicide. Specific death reason: Explosion. caused by MightyHornet999.
+2026-07-23 22:12:16.769 +10:00 | Game Event          | Door           | MightyHornet999 (76561199083613071@steam) destroyed unnamed door using Grenade.
+2026-07-23 22:12:29.986 +10:00 | Remote Admin        | Class change   | MightyHornet999 (76561199083613071@steam) changed role of player MightyHornet999 (76561199083613071@steam) to Scp096.
+2026-07-23 22:12:30.137 +10:00 | Remote Admin        | Administrative | Miniryder (76561199154923632@steam) applied a status effect SilentWalk for player Miniryder (76561199154923632@steam). Intensity: 255 - Duration: 500.
+2026-07-23 22:12:37.337 +10:00 | Game Event          | Door           | Miniryder (76561199154923632@steam) opened CHECKPOINT_EZ_HCZ_A.
+2026-07-23 22:12:48.053 +10:00 | Game Event          | Door           | Miniryder (76561199154923632@steam) opened CHECKPOINT_EZ_HCZ_A.
+2026-07-23 22:12:53.902 +10:00 | Game Event          | Door           | MightyHornet999 (76561199083613071@steam) destroyed unnamed door using Scp096.
+2026-07-23 22:13:01.221 +10:00 | Game Event          | Door           | MightyHornet999 (76561199083613071@steam) opened CHECKPOINT_EZ_HCZ_A.
+2026-07-23 22:13:04.319 +10:00 | Kill                | Class change   | Miniryder (76561199154923632@steam), playing as Class-D Personnel, has died. Specific death reason: Crushed.
+2026-07-23 22:13:04.339 +10:00 | Game Event          | Class change   | Player Miniryder (76561199154923632@steam) respawned as ChaosMarauder.
+2026-07-23 22:13:04.339 +10:00 | Game Event          | Class change   | WaveSpawner has successfully spawned 1 players as ChaosInsurgency!
+2026-07-23 22:13:10.988 +10:00 | Remote Admin        | Administrative | Miniryder (76561199154923632@steam) teleported themself to player MightyHornet999 (76561199083613071@steam).
+2026-07-23 22:13:16.754 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) applied a status effect MovementBoost for player MightyHornet999 (76561199083613071@steam). Intensity: 255 - Duration: 0.
+2026-07-23 22:13:22.288 +10:00 | Remote Admin        | Administrative | Miniryder (76561199154923632@steam) applied a status effect SilentWalk for player Miniryder (76561199154923632@steam). Intensity: 255 - Duration: 500.
+2026-07-23 22:13:27.221 +10:00 | Remote Admin        | Administrative | Miniryder (76561199154923632@steam) applied a status effect MovementBoost for player Miniryder (76561199154923632@steam). Intensity: 255 - Duration: 5000.
+2026-07-23 22:13:47.505 +10:00 | Kill                | Class change   | Miniryder (76561199154923632@steam), playing as Chaos Insurgency Marauder, has died. Specific death reason: Crushed.
+2026-07-23 22:14:01.758 +10:00 | Remote Admin        | Class change   | Miniryder (76561199154923632@steam) changed role of player Miniryder (76561199154923632@steam) to ClassD.
+2026-07-23 22:14:05.723 +10:00 | Remote Admin        | Administrative | Miniryder (76561199154923632@steam) brought player MightyHornet999 (76561199083613071@steam).
+2026-07-23 22:14:06.240 +10:00 | Remote Admin        | Administrative | Miniryder (76561199154923632@steam) teleported themself to player MightyHornet999 (76561199083613071@steam).
+2026-07-23 22:14:06.772 +10:00 | Kill                | Class change   | Miniryder (76561199154923632@steam), playing as Class-D Personnel, has died. Specific death reason: Melted by a highly corrosive substance.
+2026-07-23 22:14:16.773 +10:00 | Kill                | Class change   | MightyHornet999 (76561199083613071@steam), playing as SCP-096, has died. Specific death reason: Melted by a highly corrosive substance.
+2026-07-23 22:14:48.026 +10:00 | Remote Admin        | Class change   | MightyHornet999 (76561199083613071@steam) changed role of player MightyHornet999 (76561199083613071@steam) to Scp096.
+2026-07-23 22:14:53.008 +10:00 | Game Event          | Warhead        | Countdown started.
+2026-07-23 22:14:53.009 +10:00 | Remote Admin        | Administrative | Miniryder (76561199154923632@steam) instantly detonated the warhead.
+2026-07-23 22:14:53.024 +10:00 | Game Event          | Warhead        | Warhead detonated.
+2026-07-23 22:14:53.024 +10:00 | Remote Admin        | Administrative | LCZ decontamination has been disabled by detonation of the Alpha Warhead.
+2026-07-23 22:14:53.024 +10:00 | Kill                | Class change   | MightyHornet999 (76561199083613071@steam), playing as SCP-096, has died. Specific death reason: Died to alpha warhead.
+2026-07-23 22:15:01.730 +10:00 | Remote Admin        | Class change   | MightyHornet999 (76561199083613071@steam) changed role of player MightyHornet999 (76561199083613071@steam) to ChaosMarauder.
+2026-07-23 22:15:01.733 +10:00 | Remote Admin        | Class change   | MightyHornet999 (76561199083613071@steam) changed role of player Miniryder (76561199154923632@steam) to ChaosMarauder.
+2026-07-23 22:15:05.045 +10:00 | Remote Admin        | Class change   | MightyHornet999 (76561199083613071@steam) changed role of player MightyHornet999 (76561199083613071@steam) to Scp096.
+2026-07-23 22:15:09.194 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) applied a status effect MovementBoost for player MightyHornet999 (76561199083613071@steam). Intensity: 255 - Duration: 0.
+2026-07-23 22:15:12.727 +10:00 | Remote Admin        | Administrative | Miniryder (76561199154923632@steam) applied a status effect MovementBoost for player Miniryder (76561199154923632@steam). Intensity: 255 - Duration: 5000.
+2026-07-23 22:15:18.545 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) applied a status effect Lightweight for player Miniryder (76561199154923632@steam). Intensity: 255 - Duration: 0.
+2026-07-23 22:15:20.013 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) applied a status effect Lightweight for player MightyHornet999 (76561199083613071@steam). Intensity: 255 - Duration: 0.
+2026-07-23 22:15:22.043 +10:00 | Kill                | Class change   | Miniryder (76561199154923632@steam), playing as Chaos Insurgency Marauder, has died. Specific death reason: Fall damage.
+2026-07-23 22:15:31.567 +10:00 | Remote Admin        | Class change   | Miniryder (76561199154923632@steam) changed role of player Miniryder (76561199154923632@steam) to ChaosConscript.
+2026-07-23 22:15:34.232 +10:00 | Remote Admin        | Administrative | Miniryder (76561199154923632@steam) applied a status effect MovementBoost for player Miniryder (76561199154923632@steam). Intensity: 255 - Duration: 5000.
+2026-07-23 22:15:51.049 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) ran repair on the following door(s): **
+2026-07-23 22:15:51.549 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) ran destroy on the following door(s): **
+2026-07-23 22:15:58.566 +10:00 | Game Event          | Door           | Miniryder (76561199154923632@steam) closed SURFACE_GATE.
+2026-07-23 22:16:29.533 +10:00 | Game Event          | Door           | Miniryder (76561199154923632@steam) opened SURFACE_GATE.
+2026-07-23 22:17:15.870 +10:00 | Kill                | Class change   | Miniryder (76561199154923632@steam), playing as Chaos Insurgency Conscript, has died. Specific death reason: Fall damage.
+2026-07-23 22:17:29.978 +10:00 | Remote Admin        | Class change   | Miniryder (76561199154923632@steam) changed role of player Miniryder (76561199154923632@steam) to ChaosRepressor.
+2026-07-23 22:17:33.759 +10:00 | Remote Admin        | Administrative | Miniryder (76561199154923632@steam) applied a status effect MovementBoost for player Miniryder (76561199154923632@steam). Intensity: 255 - Duration: 5000.
+2026-07-23 22:18:23.743 +10:00 | Remote Admin        | Administrative | Miniryder (76561199154923632@steam) gave Medkit to Miniryder (76561199154923632@steam).
+2026-07-23 22:18:24.143 +10:00 | Remote Admin        | Administrative | Miniryder (76561199154923632@steam) gave Medkit to Miniryder (76561199154923632@steam).
+2026-07-23 22:18:24.293 +10:00 | Remote Admin        | Administrative | Miniryder (76561199154923632@steam) gave Medkit to Miniryder (76561199154923632@steam).
+2026-07-23 22:18:24.860 +10:00 | Remote Admin        | Administrative | Miniryder (76561199154923632@steam) gave Medkit to Miniryder (76561199154923632@steam).
+2026-07-23 22:18:25.093 +10:00 | Remote Admin        | Administrative | Miniryder (76561199154923632@steam) gave Medkit to Miniryder (76561199154923632@steam).
+2026-07-23 22:18:28.760 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave Medkit to Miniryder (76561199154923632@steam).
+2026-07-23 22:18:28.943 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave Medkit to Miniryder (76561199154923632@steam).
+2026-07-23 22:18:29.093 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave Medkit to Miniryder (76561199154923632@steam).
+2026-07-23 22:18:29.243 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave Medkit to Miniryder (76561199154923632@steam).
+2026-07-23 22:18:29.393 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave Medkit to Miniryder (76561199154923632@steam).
+2026-07-23 22:18:29.543 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave Medkit to Miniryder (76561199154923632@steam).
+2026-07-23 22:18:48.461 +10:00 | Kill                | Class change   | Miniryder (76561199154923632@steam), playing as Chaos Insurgency Repressor, has died. Specific death reason: Fall damage.
+2026-07-23 22:19:01.984 +10:00 | Game Event          | Class change   | Player Miniryder (76561199154923632@steam) respawned as ChaosRifleman.
+2026-07-23 22:19:01.984 +10:00 | Game Event          | Class change   | WaveSpawner has successfully spawned 1 players as ChaosInsurgency!
+2026-07-23 22:19:12.218 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) applied a status effect RainbowTaste for player Miniryder (76561199154923632@steam). Intensity: 1 - Duration: 0.
+2026-07-23 22:19:28.273 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) applied a status effect MovementBoost for player Miniryder (76561199154923632@steam). Intensity: 255 - Duration: 0.
+2026-07-23 22:19:29.923 +10:00 | Remote Admin        | Administrative | Miniryder (76561199154923632@steam) applied a status effect MovementBoost for player Miniryder (76561199154923632@steam). Intensity: 255 - Duration: 5000.
+2026-07-23 22:19:33.257 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave Medkit to Miniryder (76561199154923632@steam).
+2026-07-23 22:19:33.440 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave Medkit to Miniryder (76561199154923632@steam).
+2026-07-23 22:19:33.590 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave Medkit to Miniryder (76561199154923632@steam).
+2026-07-23 22:19:52.421 +10:00 | Kill                | Class change   | Miniryder (76561199154923632@steam), playing as Chaos Insurgency Rifleman, has died. Specific death reason: Fall damage.
+2026-07-23 22:20:09.080 +10:00 | Remote Admin        | Class change   | Miniryder (76561199154923632@steam) changed role of player Miniryder (76561199154923632@steam) to ChaosRepressor.
+2026-07-23 22:20:15.245 +10:00 | Remote Admin        | Administrative | Miniryder (76561199154923632@steam) applied a status effect MovementBoost for player Miniryder (76561199154923632@steam). Intensity: 255 - Duration: 5000.
+2026-07-23 22:20:23.895 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) applied a status effect SeveredHands for player Miniryder (76561199154923632@steam). Intensity: 1 - Duration: 0.
+2026-07-23 22:20:24.595 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) applied a status effect SeveredHands for player Miniryder (76561199154923632@steam). Intensity: 0 - Duration: 0.
+2026-07-23 22:21:10.420 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) ran repair on the following door(s): *
+2026-07-23 22:21:13.454 +10:00 | Remote Admin        | Administrative | Miniryder (76561199154923632@steam) gave Medkit to Miniryder (76561199154923632@steam).
+2026-07-23 22:21:13.637 +10:00 | Remote Admin        | Administrative | Miniryder (76561199154923632@steam) gave Medkit to Miniryder (76561199154923632@steam).
+2026-07-23 22:21:13.837 +10:00 | Remote Admin        | Administrative | Miniryder (76561199154923632@steam) gave Medkit to Miniryder (76561199154923632@steam).
+2026-07-23 22:21:14.021 +10:00 | Remote Admin        | Administrative | Miniryder (76561199154923632@steam) gave Medkit to Miniryder (76561199154923632@steam).
+2026-07-23 22:21:14.237 +10:00 | Remote Admin        | Administrative | Miniryder (76561199154923632@steam) gave Medkit to Miniryder (76561199154923632@steam).
+2026-07-23 22:21:17.621 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) ran close on the following door(s): *
+2026-07-23 22:21:20.637 +10:00 | Game Event          | Door           | MightyHornet999 (76561199083613071@steam) opened SURFACE_GATE.
+2026-07-23 22:21:23.404 +10:00 | Game Event          | Door           | Miniryder (76561199154923632@steam) opened SURFACE_NUKE.
+2026-07-23 22:21:28.421 +10:00 | Game Event          | Door           | MightyHornet999 (76561199083613071@steam) closed SURFACE_NUKE.
+2026-07-23 22:21:29.954 +10:00 | Game Event          | Door           | Miniryder (76561199154923632@steam) opened SURFACE_NUKE.
+2026-07-23 22:21:30.521 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) ran destroy on the following door(s): *
+2026-07-23 22:21:59.360 +10:00 | Remote Admin        | Class change   | MightyHornet999 (76561199083613071@steam) changed role of player Miniryder (76561199154923632@steam) to ChaosMarauder.
+2026-07-23 22:22:02.427 +10:00 | Remote Admin        | Class change   | MightyHornet999 (76561199083613071@steam) changed role of player MightyHornet999 (76561199083613071@steam) to ChaosMarauder.
+2026-07-23 22:22:05.380 +10:00 | Remote Admin        | Class change   | MightyHornet999 (76561199083613071@steam) changed role of player Miniryder (76561199154923632@steam) to Scp096.
+2026-07-23 22:22:10.763 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) applied a status effect MovementBoost for player MightyHornet999 (76561199083613071@steam). Intensity: 255 - Duration: 0.
+2026-07-23 22:22:10.763 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) applied a status effect MovementBoost for player Miniryder (76561199154923632@steam). Intensity: 255 - Duration: 0.
+2026-07-23 22:22:17.847 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) applied a status effect Lightweight for player Miniryder (76561199154923632@steam). Intensity: 255 - Duration: 0.
+2026-07-23 22:22:38.498 +10:00 | Kill                | Class change   | MightyHornet999 (76561199083613071@steam), playing as Chaos Insurgency Marauder, has died. Specific death reason: Fall damage.
+2026-07-23 22:22:49.937 +10:00 | Remote Admin        | Class change   | MightyHornet999 (76561199083613071@steam) changed role of player MightyHornet999 (76561199083613071@steam) to ChaosMarauder.
+2026-07-23 22:22:49.940 +10:00 | Remote Admin        | Class change   | MightyHornet999 (76561199083613071@steam) changed role of player Miniryder (76561199154923632@steam) to ChaosMarauder.
+2026-07-23 22:23:00.319 +10:00 | Remote Admin        | Class change   | MightyHornet999 (76561199083613071@steam) changed role of player Miniryder (76561199154923632@steam) to Scp096.
+2026-07-23 22:23:06.384 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave Medkit to MightyHornet999 (76561199083613071@steam).
+2026-07-23 22:23:06.601 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave Medkit to MightyHornet999 (76561199083613071@steam).
+2026-07-23 22:23:06.784 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave Medkit to MightyHornet999 (76561199083613071@steam).
+2026-07-23 22:23:06.934 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave Medkit to MightyHornet999 (76561199083613071@steam).
+2026-07-23 22:23:09.102 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) administratively disarmed MightyHornet999 (76561199083613071@steam).
+2026-07-23 22:23:09.701 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave Medkit to MightyHornet999 (76561199083613071@steam).
+2026-07-23 22:23:09.867 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave Medkit to MightyHornet999 (76561199083613071@steam).
+2026-07-23 22:23:10.051 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave Medkit to MightyHornet999 (76561199083613071@steam).
+2026-07-23 22:23:15.734 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP207 to MightyHornet999 (76561199083613071@steam).
+2026-07-23 22:23:19.884 +10:00 | Remote Admin        | Administrative | Miniryder (76561199154923632@steam) applied a status effect MovementBoost for player Miniryder (76561199154923632@steam). Intensity: 255 - Duration: 5000.
+2026-07-23 22:23:24.668 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) administratively released , MightyHornet999 (76561199083613071@steam).
+2026-07-23 22:23:30.651 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) applied a status effect Lightweight for player Miniryder (76561199154923632@steam). Intensity: 255 - Duration: 0.
+2026-07-23 22:23:46.768 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) applied a status effect Scp207 for player Miniryder (76561199154923632@steam). Intensity: 3 - Duration: 0.
+2026-07-23 22:23:52.701 +10:00 | Kill                | Class change   | MightyHornet999 (76561199083613071@steam), playing as Chaos Insurgency Marauder, has been killed by Miniryder (76561199154923632@steam) playing as: SCP-096. Specific death reason: Stood in a line of SCP-096's charge (Miniryder).
+2026-07-23 22:23:52.720 +10:00 | Game Event          | Class change   | Player MightyHornet999 (76561199083613071@steam) respawned as NtfSergeant.
+2026-07-23 22:23:52.720 +10:00 | Game Event          | Class change   | WaveSpawner has successfully spawned 1 players as FoundationForces!
+2026-07-23 22:24:01.470 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) applied a status effect MovementBoost for player MightyHornet999 (76561199083613071@steam). Intensity: 255 - Duration: 0.
+2026-07-23 22:24:05.837 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave ParticleDisruptor to MightyHornet999 (76561199083613071@steam).
+2026-07-23 22:24:39.066 +10:00 | Kill                | Class change   | MightyHornet999 (76561199083613071@steam), playing as Nine-Tailed Fox Sergeant, has been killed by Miniryder (76561199154923632@steam) playing as: SCP-096. Specific death reason: Got slapped by SCP-096's right hand (Miniryder).
+2026-07-23 22:24:46.900 +10:00 | Remote Admin        | Class change   | MightyHornet999 (76561199083613071@steam) changed role of player MightyHornet999 (76561199083613071@steam) to Scp096.
+2026-07-23 22:24:51.486 +10:00 | Remote Admin        | Class change   | MightyHornet999 (76561199083613071@steam) changed role of player MightyHornet999 (76561199083613071@steam) to ChaosMarauder.
+2026-07-23 22:24:53.799 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) applied a status effect MovementBoost for player MightyHornet999 (76561199083613071@steam). Intensity: 255 - Duration: 0.
+2026-07-23 22:25:01.483 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave MicroHID to MightyHornet999 (76561199083613071@steam).
+2026-07-23 22:25:23.700 +10:00 | Kill                | Class change   | MightyHornet999 (76561199083613071@steam), playing as Chaos Insurgency Marauder, has been killed by Miniryder (76561199154923632@steam) playing as: SCP-096. Specific death reason: Stood in a line of SCP-096's charge (Miniryder).
+2026-07-23 22:25:35.555 +10:00 | Remote Admin        | Class change   | MightyHornet999 (76561199083613071@steam) changed role of player MightyHornet999 (76561199083613071@steam) to ChaosMarauder.
+2026-07-23 22:25:39.653 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) applied a status effect MovementBoost for player MightyHornet999 (76561199083613071@steam). Intensity: 255 - Duration: 0.
+2026-07-23 22:25:49.420 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP207 to MightyHornet999 (76561199083613071@steam).
+2026-07-23 22:25:50.953 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave AntiSCP207 to MightyHornet999 (76561199083613071@steam).
+2026-07-23 22:26:17.388 +10:00 | Suicide             | Class change   | MightyHornet999 (76561199083613071@steam), playing as Chaos Insurgency Marauder, has commited suicide. Specific death reason: Explosion. caused by MightyHornet999.
+2026-07-23 22:26:29.359 +10:00 | Remote Admin        | Class change   | MightyHornet999 (76561199083613071@steam) changed role of player MightyHornet999 (76561199083613071@steam) to Tutorial.
+2026-07-23 22:26:33.024 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) applied a status effect MovementBoost for player MightyHornet999 (76561199083613071@steam). Intensity: 255 - Duration: 0.
+2026-07-23 22:26:47.006 +10:00 | Kill                | Class change   | MightyHornet999 (76561199083613071@steam), playing as Tutorial, has been killed by Miniryder (76561199154923632@steam) playing as: SCP-096. Specific death reason: Stood in a line of SCP-096's charge (Miniryder).
+2026-07-23 22:27:01.326 +10:00 | Remote Admin        | Class change   | MightyHornet999 (76561199083613071@steam) changed role of player Miniryder (76561199154923632@steam) to ClassD.
+2026-07-23 22:27:05.411 +10:00 | Remote Admin        | Class change   | MightyHornet999 (76561199083613071@steam) changed role of player MightyHornet999 (76561199083613071@steam) to ChaosMarauder.
+2026-07-23 22:27:07.993 +10:00 | Remote Admin        | Class change   | Miniryder (76561199154923632@steam) changed role of player Miniryder (76561199154923632@steam) to Scp106.
+2026-07-23 22:27:14.042 +10:00 | Remote Admin        | Administrative | Miniryder (76561199154923632@steam) applied a status effect MovementBoost for player Miniryder (76561199154923632@steam). Intensity: 255 - Duration: 5000.
+2026-07-23 22:27:14.542 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) brought player Miniryder (76561199154923632@steam).
+2026-07-23 22:27:18.692 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) applied a status effect MovementBoost for player MightyHornet999 (76561199083613071@steam). Intensity: 255 - Duration: 0.
+2026-07-23 22:27:27.626 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) applied a status effect SpawnProtected for player MightyHornet999 (76561199083613071@steam). Intensity: 1 - Duration: 0.
+2026-07-23 22:27:32.292 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) teleported themself to player MightyHornet999 (76561199083613071@steam).
+2026-07-23 22:27:35.026 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) teleported themself to player Miniryder (76561199154923632@steam).
+2026-07-23 22:27:52.909 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) applied a status effect Scp1344 for player Miniryder (76561199154923632@steam). Intensity: 1 - Duration: 0.
+2026-07-23 22:27:54.544 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) applied a status effect Scp1344 for player MightyHornet999 (76561199083613071@steam). Intensity: 1 - Duration: 0.
+2026-07-23 22:27:59.980 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP1509 to MightyHornet999 (76561199083613071@steam).
+2026-07-23 22:28:10.450 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) applied a status effect MovementBoost for player MightyHornet999 (76561199083613071@steam). Intensity: 255 - Duration: 0.
+2026-07-23 22:28:16.383 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave Medkit to MightyHornet999 (76561199083613071@steam).
+2026-07-23 22:28:16.584 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave Medkit to MightyHornet999 (76561199083613071@steam).
+2026-07-23 22:28:19.750 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP2176 to MightyHornet999 (76561199083613071@steam).
+2026-07-23 22:28:22.305 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) administratively disarmed MightyHornet999 (76561199083613071@steam).
+2026-07-23 22:28:23.288 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) administratively released , MightyHornet999 (76561199083613071@steam).
+2026-07-23 22:28:24.972 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave Medkit to MightyHornet999 (76561199083613071@steam).
+2026-07-23 22:28:25.188 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave Medkit to MightyHornet999 (76561199083613071@steam).
+2026-07-23 22:28:26.872 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave SCP2176 to MightyHornet999 (76561199083613071@steam).
+2026-07-23 22:28:30.023 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) gave ParticleDisruptor to MightyHornet999 (76561199083613071@steam).
+2026-07-23 22:28:51.774 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) ran repair on the following door(s): **
+2026-07-23 22:28:58.690 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) teleported player Miniryder (76561199154923632@steam) to door SURFACE_GATE.
+2026-07-23 22:29:25.990 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) teleported player Miniryder (76561199154923632@steam) to door ESCAPE_FINAL.
+2026-07-23 22:29:29.241 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) applied a status effect SpawnProtected for player Miniryder (76561199154923632@steam). Intensity: 0 - Duration: 0.
+2026-07-23 22:31:05.053 +10:00 | Game Event          | Throwable      | MightyHornet999 (76561199083613071@steam) threw SCP2176.
+2026-07-23 22:31:35.102 +10:00 | Kill                | Class change   | Dummy (ID_Dummy), playing as Chaos Insurgency Marauder, has died. Specific death reason: Decayed in the Pocket Dimension.
+2026-07-23 22:31:37.436 +10:00 | Kill                | Class change   | Dummy (ID_Dummy), playing as Nine-Tailed Fox Captain, has been killed by Miniryder (76561199154923632@steam) playing as: SCP-106. Specific death reason: Died to SCP (Miniryder, Scp106).
+2026-07-23 22:31:56.107 +10:00 | Game Event          | Door           | MightyHornet999 (76561199083613071@steam) closed SURFACE_GATE.
+2026-07-23 22:32:21.910 +10:00 | Game Event          | Door           | MightyHornet999 (76561199083613071@steam) opened SURFACE_GATE.
+2026-07-23 22:33:07.416 +10:00 | Remote Admin        | Class change   | MightyHornet999 (76561199083613071@steam) changed role of player Dummy (ID_Dummy) to NtfCaptain.
+2026-07-23 22:33:09.848 +10:00 | Remote Admin        | Class change   | MightyHornet999 (76561199083613071@steam) changed role of player Dummy (ID_Dummy) to ChaosRepressor.
+2026-07-23 22:33:18.479 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) applied a status effect SpawnProtected for player Dummy (ID_Dummy). Intensity: 0 - Duration: 0.
+2026-07-23 22:33:21.646 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) applied a status effect SpawnProtected for player Dummy (ID_Dummy). Intensity: 0 - Duration: 0.
+2026-07-23 22:33:21.829 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) applied a status effect SpawnProtected for player Dummy (ID_Dummy). Intensity: 0 - Duration: 0.
+2026-07-23 22:33:21.980 +10:00 | Remote Admin        | Administrative | MightyHornet999 (76561199083613071@steam) applied a status effect SpawnProtected for player Dummy (ID_Dummy). Intensity: 0 - Duration: 0.
+2026-07-23 22:33:28.117 +10:00 | Remote Admin        | Class change   | MightyHornet999 (76561199083613071@steam) changed role of player MightyHornet999 (76561199083613071@steam) to ChaosMarauder.
+2026-07-23 22:33:37.879 +10:00 | Kill                | Class change   | Dummy (ID_Dummy), playing as Nine-Tailed Fox Captain, has died. Specific death reason: Decayed in the Pocket Dimension.
+2026-07-23 22:33:40.846 +10:00 | Kill                | Class change   | Dummy (ID_Dummy), playing as Chaos Insurgency Repressor, has died. Specific death reason: Decayed in the Pocket Dimension.
+2026-07-23 22:33:44.345 +10:00 | Kill                | Class change   | MightyHornet999 (76561199083613071@steam), playing as Chaos Insurgency Marauder, has been killed by Miniryder (76561199154923632@steam) playing as: SCP-106. Specific death reason: Died to SCP (Miniryder, Scp106).
+2026-07-23 22:33:45.579 +10:00 | Game Event          | Game logic     | Round finished! Anomalies: 1 | Chaos: 0 | Facility Forces: 0 | D escaped percentage: 0 | S escaped percentage: 1.
