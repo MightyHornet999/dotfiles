@@ -1,4 +1,0 @@
-audio.play_bitrate_non_metered_migrated=true
-connect.dial_devices="[{\"address\":\"192.168.15.15\",\"app_state\":\"MISSING\",\"created_timestamp\":1783584340,\"device_id\":\"4D454930-0200-1000-8001-D8AFF1A7A074\",\"dial_location_url\":\"http://192.168.15.15:55000/nrc/ddd.xml\",\"display_name\":\"55EX600_Series\",\"last_seen\":1783934072,\"manufacturer\":\"Panasonic\",\"model_name\":\"Panasonic VIErA\",\"product_cap\":\"\",\"public_ip\":\"101.178.207.240\",\"wol\":{\"all_interfaces\":false,\"delay_ms\":250,\"mac\":\"2824ffe22b13\",\"port\":9,\"retries\":160}}]"
-connect.mdns_devices="[]"
-app.player.volume=21140

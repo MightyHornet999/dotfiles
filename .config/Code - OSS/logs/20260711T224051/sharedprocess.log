@@ -1,6 +1,0 @@
-2026-07-11 22:44:56.053 [info] Getting Manifest... theqtcompany.qt-core
-2026-07-11 22:44:56.586 [info] Installing extension: theqtcompany.qt-core {"pinned":false,"isMachineScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/admin/.vscode-oss/extensions/extensions.json","path":"/home/admin/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"isBuiltin":false,"isApplicationScoped":false,"productVersion":{"version":"1.127.0","date":"2026-06-30T11:53:00Z"}}
-2026-07-11 22:44:57.562 [info] Extension signature verification result for theqtcompany.qt-core: Success. Executed: true. Duration: 187ms.
-2026-07-11 22:44:57.886 [info] Extracted extension to file:///home/admin/.vscode-oss/extensions/theqtcompany.qt-core-1.14.0-universal: theqtcompany.qt-core
-2026-07-11 22:44:57.897 [info] Renamed to /home/admin/.vscode-oss/extensions/theqtcompany.qt-core-1.14.0-universal
-2026-07-11 22:44:57.907 [info] Extension installed successfully: theqtcompany.qt-core vscode-userdata:/home/admin/.vscode-oss/extensions/extensions.json

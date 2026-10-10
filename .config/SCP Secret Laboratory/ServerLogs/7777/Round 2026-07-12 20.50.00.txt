@@ -1,6 +1,0 @@
-2026-07-12 20:50:00.159 +10:00 | Internal            | Game logic     | Started logging.
-2026-07-12 20:50:00.159 +10:00 | Internal            | Game logic     | Game version: 14.2.7.
-2026-07-12 20:50:00.159 +10:00 | Internal            | Game logic     | Build type: Release.
-2026-07-12 20:50:00.159 +10:00 | Internal            | Game logic     | Build timestamp: 2026-05-21 09:02:02Z.
-2026-07-12 20:50:00.159 +10:00 | Internal            | Game logic     | Headless: True.
-2026-07-12 20:50:06.957 +10:00 | Connection update   | Networking     | 76561199083613071@steam preauthenticated from endpoint 192.168.15.14:57649.

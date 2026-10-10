@@ -1,7 +1,0 @@
-2026-07-13 13:13:04.412 [info] [extension] Activating theqtcompany.qt-core
-2026-07-13 13:13:04.412 [info] [project] Creating project:"/home/admin/.config/quickshell"
-2026-07-13 13:13:04.412 [info] [vcpkg] vcpkg is not installed
-2026-07-13 13:13:04.412 [info] [qtpaths] No qtpaths or qmake found in PATH
-2026-07-13 13:13:04.412 [info] [project] Setting Qt installation root for /home/admin/.config/quickshell to: 
-2026-07-13 13:13:04.412 [info] [project] Setting additional Qt paths for /home/admin/.config/quickshell to: 
-2026-07-13 13:13:04.412 [info] [project] Config values initialized for:/home/admin/.config/quickshell

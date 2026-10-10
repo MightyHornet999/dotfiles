@@ -1,6 +1,0 @@
-[2026-07-13 20:19:51.015 +10:00] Logging started.
-[2026-07-13 20:19:51.015 +10:00] Timezone offset: +10:00
-[2026-07-13 20:19:51.015 +10:00] Started new session on port 7777.
-[2026-07-13 20:19:51.015 +10:00] Trying to start server...
-[2026-07-13 20:19:51.015 +10:00] Failed - Server application could not be located!
-[2026-07-13 20:19:51.015 +10:00] --- END OF LOG ---
