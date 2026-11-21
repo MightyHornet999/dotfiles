@@ -46,7 +46,7 @@ hl.on("hyprland.start", function ()
   hl.exec_cmd(terminal)
   hl.exec_cmd("nm-applet")
   hl.exec_cmd("waybar & waypaper --restore & firefox")
-  hl.exec_cmd("quickshell")
+  -- hl.exec_cmd("quickshell")
 end)
 
 
@@ -92,7 +92,7 @@ hl.config({
         border_size = 2,
 
         col = {
-            active_border   = { colors = {"rgba(33ccffee)", "rgba(00ff99ee)"}, angle = 45 },
+            active_border   = { colors = {"rgba(ad0e21ee)", "rgba(850413ee)"}, angle = 45 },
             inactive_border = "rgba(595959aa)",
         },
 
