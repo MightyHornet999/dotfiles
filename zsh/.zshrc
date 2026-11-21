@@ -8,4 +8,4 @@ source $ZSH/oh-my-zsh.sh
 
 eval "$(zoxide init zsh --cmd cd)"
 
-export PATH="$PATH:$HOME/.cargo/bin"
+export PATH="$PATH:$HOME/.cargo/bin:$HOME/.local/bin"
